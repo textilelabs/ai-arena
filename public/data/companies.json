@@ -410,6 +410,16 @@
   "latestModel": "ERNIE 4.5 VL 424B A47B"
  },
  {
+  "key": "cactus-compute",
+  "name": "Cactus Compute",
+  "monogram": "CA",
+  "color": "#456dd3",
+  "blurb": "Models tracked from Cactus Compute.",
+  "modelCount": 1,
+  "latestRelease": "2026-07-29",
+  "latestModel": "needle2"
+ },
+ {
   "key": "cognitivecomputations",
   "name": "Cognitivecomputations",
   "monogram": "CO",

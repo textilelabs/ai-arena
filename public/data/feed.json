@@ -1011,6 +1011,30 @@
   "benchmarkCount": 3
  },
  {
+  "id": "feed-hf:Cactus-Compute/needle2",
+  "modelId": "hf:Cactus-Compute/needle2",
+  "title": "needle2 listed",
+  "provider": "Cactus Compute",
+  "providerKey": "cactus-compute",
+  "released": "2026-07-29",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "needle2",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Needle 2 is an open 45M-parameter model for tool calling, device use and structured extraction. The whole model is a single 14MB binary that runs a full session in 28MB of RAM. It is built on our Simple Attention Network findings, compressed to CQ2-bit with Cactus Quants, and baked into its own engine. On the benchmarks below, Needle 2 trades wins with other small models like FunctionGemma 270M, LFM2.5 230M and Apple FM, at 5x to 70x smaller, and 2 bits against their f16. Needle hits 500 tokens/sec decode speed on a Raspberry Pi 5, between 400-1,500 tokens/sec on VR devices like Meta Quest 3S and Apple Vision Pro, and ranges 300-700 on sub-$200 phones such as the Samsung A-Series. With a peak session RAM around 28MB, Needle reaches microcontrollers like the ESP32-P4; others have reported running it on an ESP32-S3 in about 11MB.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/Cactus-Compute/needle2",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:LiquidAI/LFM2.5-2.6B",
   "modelId": "hf:LiquidAI/LFM2.5-2.6B",
   "title": "LFM2.5-2.6B ships",
