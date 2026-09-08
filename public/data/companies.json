@@ -470,6 +470,16 @@
   "latestModel": "Nanbeige4.2-3B"
  },
  {
+  "key": "openbmb",
+  "name": "Openbmb",
+  "monogram": "OP",
+  "color": "#5fd345",
+  "blurb": "Models tracked from Openbmb.",
+  "modelCount": 1,
+  "latestRelease": "2026-05-21",
+  "latestModel": "MiniCPM5-1B"
+ },
+ {
   "key": "openmoss-team",
   "name": "Openmoss Team",
   "monogram": "OP",

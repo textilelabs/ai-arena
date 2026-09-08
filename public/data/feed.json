@@ -2496,6 +2496,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:openbmb/MiniCPM5-1B",
+  "modelId": "hf:openbmb/MiniCPM5-1B",
+  "title": "MiniCPM5-1B listed",
+  "provider": "Openbmb",
+  "providerKey": "openbmb",
+  "released": "2026-05-21",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "minicpm5",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA. 🏆 1B-class open-source SOTA: compared with strong open-source models in the same size class, MiniCPM5-1B reaches SOTA within this comparison set. Its advantage is most visible in agentic tool use, code generation, and difficult reasoning. 🧠 Hybrid Reasoning: built-in chat template, switch via enablethinking. The same checkpoint serves as both a fast assistant and a deliberate reasoner.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/openbmb/MiniCPM5-1B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-q37m",
   "modelId": "q37m",
   "title": "Qwen3.7-Max ships",
