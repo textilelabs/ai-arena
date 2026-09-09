@@ -135,9 +135,9 @@
   "monogram": "IN",
   "color": "#45d362",
   "blurb": "Models tracked from InclusionAI.",
-  "modelCount": 6,
-  "latestRelease": "2026-08-27",
-  "latestModel": "Ling 3.0 Flash Fin"
+  "modelCount": 7,
+  "latestRelease": "2026-09-04",
+  "latestModel": "Ling-3.0-flash-VL"
  },
  {
   "key": "tencent",

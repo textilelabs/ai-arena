@@ -26,6 +26,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:inclusionAI/Ling-3.0-flash-VL",
+  "modelId": "hf:inclusionAI/Ling-3.0-flash-VL",
+  "title": "Ling-3.0-flash-VL listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2026-09-04",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ling",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "We are introducing Ling-3.0-flash-VL, our next-generation native multimodal model. Built upon Ling-3.0-flash, it brings visual information into the complete process of understanding, reasoning, acting, and verification—advancing beyond image and video perception to solving real-world tasks through vision. With 124B total parameters, only 5.5B activated parameters per token, support for image and video inputs, and a context window of up to 1M tokens, Ling-3.0-flash-VL delivers powerful multimodal reasoning and agentic capabilities with exceptional efficiency.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.0-flash-VL",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:google/gemini-3.8-flash",
   "modelId": "or:google/gemini-3.8-flash",
   "title": "Gemini 3.8 Flash listed",
