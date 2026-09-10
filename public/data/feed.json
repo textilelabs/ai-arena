@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:deepseek/deepseek-v4.1-flash",
+  "modelId": "or:deepseek/deepseek-v4.1-flash",
+  "title": "DeepSeek V4.1 Flash ships",
+  "provider": "DeepSeek",
+  "providerKey": "deepseek",
+  "released": "2026-09-10",
+  "ultimateScore": 62.2,
+  "scoreStatus": "partial",
+  "measuredScore": 81.2,
+  "imputationReason": "Partial (2 verified benchmarks). Omission penalty applied for missing benchmarks.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "deepseek",
+  "tags": [
+   "Open Weights",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the cost-efficient tier of the V4.1 family. DeepSeek reports that it exceeds V4 Pro on performance, speed, and task...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 2
+ },
+ {
   "id": "feed-or:openai/gpt-6-astra",
   "modelId": "or:openai/gpt-6-astra",
   "title": "GPT-6 Astra listed",
