@@ -40,6 +40,16 @@
   "latestModel": "Mistral Leanstral-1.5-119B-A6B"
  },
  {
+  "key": "deepseek",
+  "name": "DeepSeek",
+  "monogram": "D",
+  "color": "#4d6bfe",
+  "blurb": "Chinese lab behind DeepSeek V/R reasoning models.",
+  "modelCount": 20,
+  "latestRelease": "2026-09-10",
+  "latestModel": "DeepSeek V4.1 Flash"
+ },
+ {
   "key": "anthropic",
   "name": "Anthropic",
   "monogram": "A",
@@ -48,16 +58,6 @@
   "modelCount": 19,
   "latestRelease": "2026-09-01",
   "latestModel": "Claude Fable 5.1"
- },
- {
-  "key": "deepseek",
-  "name": "DeepSeek",
-  "monogram": "D",
-  "color": "#4d6bfe",
-  "blurb": "Chinese lab behind DeepSeek V/R reasoning models.",
-  "modelCount": 19,
-  "latestRelease": "2026-08-21",
-  "latestModel": "DeepSeek V4 Flash Vision Exp"
  },
  {
   "key": "meta",
