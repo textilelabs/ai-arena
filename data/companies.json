@@ -15,9 +15,9 @@
   "monogram": "AI",
   "color": "#10a37f",
   "blurb": "Maker of the GPT and o-series frontier models.",
-  "modelCount": 48,
-  "latestRelease": "2026-09-04",
-  "latestModel": "GPT-6 Astra"
+  "modelCount": 52,
+  "latestRelease": "2026-09-11",
+  "latestModel": "OpenAI GPT Astra Latest"
  },
  {
   "key": "google",
@@ -290,6 +290,16 @@
   "latestModel": "Hermes 4 405B"
  },
  {
+  "key": "openbmb",
+  "name": "Openbmb",
+  "monogram": "OP",
+  "color": "#5fd345",
+  "blurb": "Models tracked from Openbmb.",
+  "modelCount": 2,
+  "latestRelease": "2026-09-06",
+  "latestModel": "MiniCPM5-2B"
+ },
+ {
   "key": "ornith-ai",
   "name": "Ornith Ai",
   "monogram": "OR",
@@ -468,16 +478,6 @@
   "modelCount": 1,
   "latestRelease": "2026-07-21",
   "latestModel": "Nanbeige4.2-3B"
- },
- {
-  "key": "openbmb",
-  "name": "Openbmb",
-  "monogram": "OP",
-  "color": "#5fd345",
-  "blurb": "Models tracked from Openbmb.",
-  "modelCount": 1,
-  "latestRelease": "2026-05-21",
-  "latestModel": "MiniCPM5-1B"
  },
  {
   "key": "openmoss-team",
