@@ -1,5 +1,57 @@
 [
  {
+  "id": "feed-or:sakana/fugu-max",
+  "modelId": "or:sakana/fugu-max",
+  "title": "Fugu Max listed",
+  "provider": "Sakana",
+  "providerKey": "sakana",
+  "released": "2026-09-11",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "fugu",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Fugu Max is the cost-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to route...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/sakana/fugu-max",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-or:sakana/fugu-ultra-v2",
+  "modelId": "or:sakana/fugu-ultra-v2",
+  "title": "Fugu Ultra v2 listed",
+  "provider": "Sakana",
+  "providerKey": "sakana",
+  "released": "2026-09-11",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "fugu",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Fugu Ultra v2 is the higher-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/sakana/fugu-ultra-v2",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:deepseek/deepseek-v4.1-flash",
   "modelId": "or:deepseek/deepseek-v4.1-flash",
   "title": "DeepSeek V4.1 Flash ships",
@@ -674,6 +726,30 @@
   "summary": "MTPLX.COM: 2 to 3x speedup. The fastest way to run models on a Mac. 4-bit dynamic quant. Great coding speeds and good quality. Recommended. This is the model MTPLX recommends for coding on a modern Mac with 32 GB or more. It is Qwen3.8-27B with its native multi-token-prediction head kept, so one pass. Same model, same output distribution, a lot more tokens per second. Measured on an M5 Max, fans verified at max, single stream, generation running to the model's own stop, official Qwen 3.8 sampling (temperature 1.0, top-p",
   "highlights": [],
   "sourceUrl": "https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-hf:CohereLabs/North-Small-Translate-1.0",
+  "modelId": "hf:CohereLabs/North-Small-Translate-1.0",
+  "title": "North-Small-Translate-1.0 listed",
+  "provider": "Cohere",
+  "providerKey": "cohere",
+  "released": "2026-08-14",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "north",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "North-Small-Translate-1.0 — Cohere release listed on the HuggingFace Hub. Awaiting published benchmark results.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/CohereLabs/North-Small-Translate-1.0",
   "access": "Open",
   "type": "General",
   "benchmarkCount": 0
