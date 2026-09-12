@@ -1,5 +1,53 @@
 [
  {
+  "id": "feed-or:inference-net/schematron-v2-turbo",
+  "modelId": "or:inference-net/schematron-v2-turbo",
+  "title": "Schematron V2 Turbo listed",
+  "provider": "Inference Net",
+  "providerKey": "inference-net",
+  "released": "2026-09-12",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "schematron",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Schematron V2 Turbo is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes throughput for high-volume extraction workloads. Extraction instructions must be supplied through a JSON schema in responseformat rather...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/inference-net/schematron-v2-turbo",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-or:inference-net/schematron-v2-small",
+  "modelId": "or:inference-net/schematron-v2-small",
+  "title": "Schematron V2 Small listed",
+  "provider": "Inference Net",
+  "providerKey": "inference-net",
+  "released": "2026-09-12",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "schematron",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Schematron V2 Small is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes extraction quality for complex schemas and long pages. Extraction instructions must be supplied through a JSON schema...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/inference-net/schematron-v2-small",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:sakana/fugu-max",
   "modelId": "or:sakana/fugu-max",
   "title": "Fugu Max listed",
@@ -204,6 +252,30 @@
   "access": "Open",
   "type": "General",
   "benchmarkCount": 1
+ },
+ {
+  "id": "feed-hf:inclusionAI/LLaDA2.2-mini",
+  "modelId": "hf:inclusionAI/LLaDA2.2-mini",
+  "title": "LLaDA2.2-mini listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2026-09-05",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "llada2",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "LLaDA2.2-mini is the lightweight variant of the agentic diffusion language model in the LLaDA2 series. Built upon the LLaDA2.0-mini architecture, it inherits the core innovations of the LLaDA2.2 series — Levenshtein Editing (introducing DELETE and INSERT control tokens) — enabling long-context tool calling, multi-turn interaction, and robust error correction, while maintaining a smaller parameter footprint and lower inference cost. For more details, please refer to our technical report. The following table compares LLaDA2.0-mini, LLaDA2.1-mini, and LLaDA2.2-mini across General and Agentic capabilities.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/inclusionAI/LLaDA2.2-mini",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
  },
  {
   "id": "feed-or:openai/gpt-6-astra",

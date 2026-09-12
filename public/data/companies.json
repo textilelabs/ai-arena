@@ -110,6 +110,16 @@
   "latestModel": "Grok 4.6"
  },
  {
+  "key": "inclusionai",
+  "name": "InclusionAI",
+  "monogram": "IN",
+  "color": "#45d362",
+  "blurb": "Models tracked from InclusionAI.",
+  "modelCount": 8,
+  "latestRelease": "2026-09-05",
+  "latestModel": "LLaDA2.2-mini"
+ },
+ {
   "key": "minimax",
   "name": "MiniMax",
   "monogram": "X",
@@ -128,16 +138,6 @@
   "modelCount": 7,
   "latestRelease": "2025-12-02",
   "latestModel": "Nova 2 Pro Preview"
- },
- {
-  "key": "inclusionai",
-  "name": "InclusionAI",
-  "monogram": "IN",
-  "color": "#45d362",
-  "blurb": "Models tracked from InclusionAI.",
-  "modelCount": 7,
-  "latestRelease": "2026-09-04",
-  "latestModel": "Ling-3.0-flash-VL"
  },
  {
   "key": "tencent",
@@ -258,6 +258,16 @@
   "modelCount": 2,
   "latestRelease": "2026-08-31",
   "latestModel": "Mercury 2.5 Preview"
+ },
+ {
+  "key": "inference-net",
+  "name": "Inference Net",
+  "monogram": "IN",
+  "color": "#d38045",
+  "blurb": "Models tracked from Inference Net.",
+  "modelCount": 2,
+  "latestRelease": "2026-09-12",
+  "latestModel": "Schematron V2 Turbo"
  },
  {
   "key": "morph",
