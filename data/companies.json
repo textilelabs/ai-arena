@@ -45,9 +45,9 @@
   "monogram": "D",
   "color": "#4d6bfe",
   "blurb": "Chinese lab behind DeepSeek V/R reasoning models.",
-  "modelCount": 20,
-  "latestRelease": "2026-09-10",
-  "latestModel": "DeepSeek V4.1 Flash"
+  "modelCount": 22,
+  "latestRelease": "2026-09-14",
+  "latestModel": "DeepSeek Flash Latest"
  },
  {
   "key": "anthropic",

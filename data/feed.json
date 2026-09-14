@@ -1,5 +1,56 @@
 [
  {
+  "id": "feed-or:~deepseek/deepseek-flash-latest",
+  "modelId": "or:~deepseek/deepseek-flash-latest",
+  "title": "DeepSeek Flash Latest listed",
+  "provider": "DeepSeek",
+  "providerKey": "deepseek",
+  "released": "2026-09-14",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "deepseek",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "This model always redirects to the latest model in the DeepSeek Flash family.",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-or:~deepseek/deepseek-pro-latest",
+  "modelId": "or:~deepseek/deepseek-pro-latest",
+  "title": "DeepSeek Pro Latest listed",
+  "provider": "DeepSeek",
+  "providerKey": "deepseek",
+  "released": "2026-09-14",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "deepseek",
+  "tags": [
+   "Proprietary",
+   "Long Context"
+  ],
+  "summary": "This model always redirects to the latest model in the DeepSeek Pro family.",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:inference-net/schematron-v2-turbo",
   "modelId": "or:inference-net/schematron-v2-turbo",
   "title": "Schematron V2 Turbo listed",
