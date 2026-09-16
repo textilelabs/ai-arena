@@ -360,6 +360,16 @@
   "latestModel": "Llama 3.3 Euryale 70B"
  },
  {
+  "key": "stealth",
+  "name": "Stealth",
+  "monogram": "ST",
+  "color": "#45c3d3",
+  "blurb": "Models tracked from Stealth.",
+  "modelCount": 2,
+  "latestRelease": "2026-09-16",
+  "latestModel": "Union Alpha"
+ },
+ {
   "key": "stepfun",
   "name": "Stepfun",
   "monogram": "ST",
@@ -508,16 +518,6 @@
   "modelCount": 1,
   "latestRelease": "2026-05-12",
   "latestModel": "Perceptron Mk1"
- },
- {
-  "key": "stealth",
-  "name": "Stealth",
-  "monogram": "ST",
-  "color": "#45c3d3",
-  "blurb": "Models tracked from Stealth.",
-  "modelCount": 1,
-  "latestRelease": "2026-08-20",
-  "latestModel": "Ox Alpha"
  },
  {
   "key": "trl-internal-testing",
