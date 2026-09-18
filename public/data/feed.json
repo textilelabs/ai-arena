@@ -333,6 +333,30 @@
   "benchmarkCount": 2
  },
  {
+  "id": "feed-hf:Edge0/Edge0-35B-A3B-preview",
+  "modelId": "hf:Edge0/Edge0-35B-A3B-preview",
+  "title": "Edge0-35B-A3B-preview listed",
+  "provider": "Edge0",
+  "providerKey": "edge0",
+  "released": "2026-09-08",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "edge0",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "A 35B-class sparse MoE that runs in phone-class memory. Edge0-35b-a3b — a 35B MoE LLM that runs at viable speed in under 3 GiB of active memory, via the edge0 streaming inference framework. src=\"https://huggingface.co/Edge0/Edge0-35B-A3B-preview/resolve/main/20260910-105854.mp4\" storage and experts are streamed on demand, so only the active weights are in RAM — under 3 GiB, with no sharding and no upfront download of the weights into memory. the int4 model within 3.9 points of its fp16 base. together and load automatically via edge0.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:openbmb/MiniCPM5-2B",
   "modelId": "hf:openbmb/MiniCPM5-2B",
   "title": "MiniCPM5-2B ships",

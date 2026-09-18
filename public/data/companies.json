@@ -460,6 +460,16 @@
   "latestModel": "Uncensored"
  },
  {
+  "key": "edge0",
+  "name": "Edge0",
+  "monogram": "ED",
+  "color": "#d34c45",
+  "blurb": "Models tracked from Edge0.",
+  "modelCount": 1,
+  "latestRelease": "2026-09-08",
+  "latestModel": "Edge0-35B-A3B-preview"
+ },
+ {
   "key": "incoai",
   "name": "Incoai",
   "monogram": "IN",
