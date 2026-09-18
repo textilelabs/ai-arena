@@ -530,6 +530,16 @@
   "latestModel": "tiny-Qwen2ForCausalLM-2.5"
  },
  {
+  "key": "unbiased",
+  "name": "Unbiased",
+  "monogram": "UN",
+  "color": "#9345d3",
+  "blurb": "Models tracked from Unbiased.",
+  "modelCount": 1,
+  "latestRelease": "2026-09-17",
+  "latestModel": "Pareto"
+ },
+ {
   "key": "writer",
   "name": "Writer",
   "monogram": "WR",

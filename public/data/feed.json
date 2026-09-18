@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:unbiased/pareto",
+  "modelId": "or:unbiased/pareto",
+  "title": "Pareto listed",
+  "provider": "Unbiased",
+  "providerKey": "unbiased",
+  "released": "2026-09-17",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "pareto",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/unbiased/pareto",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:stealth/union-alpha",
   "modelId": "or:stealth/union-alpha",
   "title": "Union Alpha listed",
