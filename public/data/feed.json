@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:prism-ml/ternary-bonsai-2-27b",
+  "modelId": "or:prism-ml/ternary-bonsai-2-27b",
+  "title": "Ternary Bonsai 2 27B ships",
+  "provider": "Prism Ml",
+  "providerKey": "prism-ml",
+  "released": "2026-09-18",
+  "ultimateScore": 79.3,
+  "scoreStatus": "measured",
+  "measuredScore": 95.7,
+  "imputationReason": null,
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ternary",
+  "tags": [
+   "Open Weights",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Bonsai 2 27B is a 27B-parameter reasoning model from PrismML derived from Qwen3.8-27B. It supports coding, mathematics, tool calling, and image understanding with a 262K-token context window. Ternary compression shrinks...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/prism-ml/ternary-bonsai-2-27b",
+  "access": "Open",
+  "type": "Reasoning",
+  "benchmarkCount": 4
+ },
+ {
   "id": "feed-or:unbiased/pareto",
   "modelId": "or:unbiased/pareto",
   "title": "Pareto listed",

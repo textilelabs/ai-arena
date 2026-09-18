@@ -530,6 +530,16 @@
   "latestModel": "Perceptron Mk1"
  },
  {
+  "key": "prism-ml",
+  "name": "Prism Ml",
+  "monogram": "PR",
+  "color": "#45c3d3",
+  "blurb": "Models tracked from Prism Ml.",
+  "modelCount": 1,
+  "latestRelease": "2026-09-18",
+  "latestModel": "Ternary Bonsai 2 27B"
+ },
+ {
   "key": "trl-internal-testing",
   "name": "trl-internal-testing",
   "monogram": "TR",
