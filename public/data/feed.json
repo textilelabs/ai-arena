@@ -26,6 +26,32 @@
   "benchmarkCount": 4
  },
  {
+  "id": "feed-or:z-ai/glm-5.3-flashx",
+  "modelId": "or:z-ai/glm-5.3-flashx",
+  "title": "GLM 5.3 FlashX listed",
+  "provider": "Zhipu AI",
+  "providerKey": "zhipu",
+  "released": "2026-09-18",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "glm",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "GLM-5.3-FlashX is the high-speed variant of Z.ai's GLM-5.3-Flash, a native multimodal model delivering inference speeds of up to 200 tokens/s. Built on the same hybrid sparse and linear attention architecture...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/z-ai/glm-5.3-flashx",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:unbiased/pareto",
   "modelId": "or:unbiased/pareto",
   "title": "Pareto listed",
