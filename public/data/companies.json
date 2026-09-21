@@ -90,6 +90,16 @@
   "latestModel": "Seed 2.1 Turbo"
  },
  {
+  "key": "xai",
+  "name": "xAI",
+  "monogram": "X",
+  "color": "#e5e7eb",
+  "blurb": "Elon Musk's lab, builder of the Grok models.",
+  "modelCount": 10,
+  "latestRelease": "2026-09-21",
+  "latestModel": "Grok 4.7"
+ },
+ {
   "key": "moonshot",
   "name": "Moonshot AI",
   "monogram": "K",
@@ -98,16 +108,6 @@
   "modelCount": 9,
   "latestRelease": "2026-07-16",
   "latestModel": "Kimi K3"
- },
- {
-  "key": "xai",
-  "name": "xAI",
-  "monogram": "X",
-  "color": "#e5e7eb",
-  "blurb": "Elon Musk's lab, builder of the Grok models.",
-  "modelCount": 9,
-  "latestRelease": "2026-08-12",
-  "latestModel": "Grok 4.6"
  },
  {
   "key": "inclusionai",

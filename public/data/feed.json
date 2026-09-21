@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:x-ai/grok-4.7",
+  "modelId": "or:x-ai/grok-4.7",
+  "title": "Grok 4.7 listed",
+  "provider": "xAI",
+  "providerKey": "xai",
+  "released": "2026-09-21",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "grok",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Grok 4.7 is SpaceXAI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, and...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/x-ai/grok-4.7",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:prism-ml/ternary-bonsai-2-27b",
   "modelId": "or:prism-ml/ternary-bonsai-2-27b",
   "title": "Ternary Bonsai 2 27B ships",
