@@ -170,6 +170,16 @@
   "latestModel": "Sonar Pro Search"
  },
  {
+  "key": "xiaomi",
+  "name": "Xiaomi",
+  "monogram": "XI",
+  "color": "#4564d3",
+  "blurb": "Models tracked from Xiaomi.",
+  "modelCount": 5,
+  "latestRelease": "2026-09-21",
+  "latestModel": "MiMo-V2.6-Flash"
+ },
+ {
   "key": "aion-labs",
   "name": "Aion Labs",
   "monogram": "AI",
@@ -398,16 +408,6 @@
   "modelCount": 2,
   "latestRelease": "2026-08-10",
   "latestModel": "Solar Pro 4"
- },
- {
-  "key": "xiaomi",
-  "name": "Xiaomi",
-  "monogram": "XI",
-  "color": "#4564d3",
-  "blurb": "Models tracked from Xiaomi.",
-  "modelCount": 2,
-  "latestRelease": "2026-04-22",
-  "latestModel": "MiMo-V2.5"
  },
  {
   "key": "allenai",
