@@ -220,6 +220,16 @@
   "latestModel": "MAI-Thinking-1"
  },
  {
+  "key": "nex-agi",
+  "name": "Nex Agi",
+  "monogram": "NE",
+  "color": "#d3455a",
+  "blurb": "Models tracked from Nex Agi.",
+  "modelCount": 4,
+  "latestRelease": "2026-09-08",
+  "latestModel": "Nex-N2.5-Pro"
+ },
+ {
   "key": "sakana",
   "name": "Sakana",
   "monogram": "SA",
@@ -260,6 +270,16 @@
   "latestModel": "Trinity Large Thinking"
  },
  {
+  "key": "cactus-compute",
+  "name": "Cactus Compute",
+  "monogram": "CA",
+  "color": "#456dd3",
+  "blurb": "Models tracked from Cactus Compute.",
+  "modelCount": 2,
+  "latestRelease": "2026-09-16",
+  "latestModel": "needle3"
+ },
+ {
   "key": "inception",
   "name": "Inception",
   "monogram": "IN",
@@ -288,16 +308,6 @@
   "modelCount": 2,
   "latestRelease": "2025-07-07",
   "latestModel": "Morph V3 Fast"
- },
- {
-  "key": "nex-agi",
-  "name": "Nex Agi",
-  "monogram": "NE",
-  "color": "#d3455a",
-  "blurb": "Models tracked from Nex Agi.",
-  "modelCount": 2,
-  "latestRelease": "2026-06-24",
-  "latestModel": "Nex-N2-Mini"
  },
  {
   "key": "nous",
@@ -438,16 +448,6 @@
   "modelCount": 1,
   "latestRelease": "2025-06-30",
   "latestModel": "ERNIE 4.5 VL 424B A47B"
- },
- {
-  "key": "cactus-compute",
-  "name": "Cactus Compute",
-  "monogram": "CA",
-  "color": "#456dd3",
-  "blurb": "Models tracked from Cactus Compute.",
-  "modelCount": 1,
-  "latestRelease": "2026-07-29",
-  "latestModel": "needle2"
  },
  {
   "key": "cognitivecomputations",
