@@ -5,9 +5,9 @@
   "monogram": "Q",
   "color": "#ff6a00",
   "blurb": "Alibaba's Qwen open-weight model series.",
-  "modelCount": 56,
-  "latestRelease": "2026-08-26",
-  "latestModel": "Qwen3.8 Flash"
+  "modelCount": 57,
+  "latestRelease": "2026-09-21",
+  "latestModel": "Qwen3.8 Omni Flash"
  },
  {
   "key": "openai",
@@ -15,9 +15,9 @@
   "monogram": "AI",
   "color": "#10a37f",
   "blurb": "Maker of the GPT and o-series frontier models.",
-  "modelCount": 52,
-  "latestRelease": "2026-09-11",
-  "latestModel": "OpenAI GPT Astra Latest"
+  "modelCount": 56,
+  "latestRelease": "2026-09-22",
+  "latestModel": "GPT-6 Luna"
  },
  {
   "key": "google",
@@ -50,6 +50,16 @@
   "latestModel": "DeepSeek Flash Latest"
  },
  {
+  "key": "anthropic",
+  "name": "Anthropic",
+  "monogram": "A",
+  "color": "#d97757",
+  "blurb": "Creator of the Claude model family and originator of Constitutional AI.",
+  "modelCount": 20,
+  "latestRelease": "2026-09-22",
+  "latestModel": "Claude Opus 5.5"
+ },
+ {
   "key": "zhipu",
   "name": "Zhipu AI",
   "monogram": "Z",
@@ -58,16 +68,6 @@
   "modelCount": 20,
   "latestRelease": "2026-09-18",
   "latestModel": "GLM 5.3 FlashX"
- },
- {
-  "key": "anthropic",
-  "name": "Anthropic",
-  "monogram": "A",
-  "color": "#d97757",
-  "blurb": "Creator of the Claude model family and originator of Constitutional AI.",
-  "modelCount": 19,
-  "latestRelease": "2026-09-01",
-  "latestModel": "Claude Fable 5.1"
  },
  {
   "key": "meta",
