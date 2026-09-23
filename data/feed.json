@@ -1,5 +1,55 @@
 [
  {
+  "id": "feed-or:aion-labs/aion-3.5",
+  "modelId": "or:aion-labs/aion-3.5",
+  "title": "Aion 3.5 listed",
+  "provider": "Aion Labs",
+  "providerKey": "aion-labs",
+  "released": "2026-09-23",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "aion",
+  "tags": [
+   "Proprietary",
+   "Long Context"
+  ],
+  "summary": "Aion 3.5 is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It uses a collaborative generation process in which multiple specialized models each...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/aion-labs/aion-3.5",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-or:aion-labs/aion-3.5-mini",
+  "modelId": "or:aion-labs/aion-3.5-mini",
+  "title": "Aion 3.5 Mini listed",
+  "provider": "Aion Labs",
+  "providerKey": "aion-labs",
+  "released": "2026-09-23",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "aion",
+  "tags": [
+   "Proprietary",
+   "Long Context"
+  ],
+  "summary": "Aion 3.5 Mini is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It is the smaller, lower-cost sibling of Aion 3.5 and uses...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/aion-labs/aion-3.5-mini",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:upstage/solar-mini4",
   "modelId": "or:upstage/solar-mini4",
   "title": "Solar Mini 4 listed",

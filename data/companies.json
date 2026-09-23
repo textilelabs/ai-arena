@@ -140,6 +140,16 @@
   "latestModel": "Nova 2 Pro Preview"
  },
  {
+  "key": "aion-labs",
+  "name": "Aion Labs",
+  "monogram": "AI",
+  "color": "#45add3",
+  "blurb": "Models tracked from Aion Labs.",
+  "modelCount": 6,
+  "latestRelease": "2026-09-23",
+  "latestModel": "Aion 3.5"
+ },
+ {
   "key": "tencent",
   "name": "Tencent",
   "monogram": "T",
@@ -178,16 +188,6 @@
   "modelCount": 5,
   "latestRelease": "2026-09-21",
   "latestModel": "MiMo-V2.6-Flash"
- },
- {
-  "key": "aion-labs",
-  "name": "Aion Labs",
-  "monogram": "AI",
-  "color": "#45add3",
-  "blurb": "Models tracked from Aion Labs.",
-  "modelCount": 4,
-  "latestRelease": "2026-07-07",
-  "latestModel": "Aion-3.0"
  },
  {
   "key": "cohere",
