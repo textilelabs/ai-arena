@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:qwen/qwen3.8-max-prime",
+  "modelId": "or:qwen/qwen3.8-max-prime",
+  "title": "Qwen3.8 Max Prime listed",
+  "provider": "Alibaba / Qwen",
+  "providerKey": "alibaba",
+  "released": "2026-09-23",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "qwen3.8",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Qwen3.8 Max Prime is a higher-throughput variant of Qwen3.8 Max from Alibaba's Qwen team, served as a separate SKU at a higher price point. It accepts text, image, and video...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/qwen/qwen3.8-max-prime",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:aion-labs/aion-3.5",
   "modelId": "or:aion-labs/aion-3.5",
   "title": "Aion 3.5 listed",
@@ -22,6 +48,32 @@
   "sourceUrl": "https://openrouter.ai/aion-labs/aion-3.5",
   "access": "Closed",
   "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-or:stealth/space-bunny-alpha",
+  "modelId": "or:stealth/space-bunny-alpha",
+  "title": "Space Bunny Alpha listed",
+  "provider": "Stealth",
+  "providerKey": "stealth",
+  "released": "2026-09-23",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "space",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Space Bunny Alpha is an anonymous large model with blazing-fast inference, strong coding capabilities and native multimodal input support. It delivers adjustable reasoning effort, and a 1M-token context window. Space...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/stealth/space-bunny-alpha",
+  "access": "Closed",
+  "type": "Reasoning",
   "benchmarkCount": 0
  },
  {

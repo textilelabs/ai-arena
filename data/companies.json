@@ -5,9 +5,9 @@
   "monogram": "Q",
   "color": "#ff6a00",
   "blurb": "Alibaba's Qwen open-weight model series.",
-  "modelCount": 57,
-  "latestRelease": "2026-09-21",
-  "latestModel": "Qwen3.8 Omni Flash"
+  "modelCount": 58,
+  "latestRelease": "2026-09-23",
+  "latestModel": "Qwen3.8 Max Prime"
  },
  {
   "key": "openai",
@@ -260,6 +260,16 @@
   "latestModel": "Granite 4.2 8B"
  },
  {
+  "key": "stealth",
+  "name": "Stealth",
+  "monogram": "ST",
+  "color": "#45c3d3",
+  "blurb": "Models tracked from Stealth.",
+  "modelCount": 3,
+  "latestRelease": "2026-09-23",
+  "latestModel": "Space Bunny Alpha"
+ },
+ {
   "key": "upstage",
   "name": "Upstage",
   "monogram": "UP",
@@ -388,16 +398,6 @@
   "modelCount": 2,
   "latestRelease": "2024-12-18",
   "latestModel": "Llama 3.3 Euryale 70B"
- },
- {
-  "key": "stealth",
-  "name": "Stealth",
-  "monogram": "ST",
-  "color": "#45c3d3",
-  "blurb": "Models tracked from Stealth.",
-  "modelCount": 2,
-  "latestRelease": "2026-09-16",
-  "latestModel": "Union Alpha"
  },
  {
   "key": "stepfun",
