@@ -1,5 +1,30 @@
 [
  {
+  "id": "feed-or:upstage/solar-mini4",
+  "modelId": "or:upstage/solar-mini4",
+  "title": "Solar Mini 4 listed",
+  "provider": "Upstage",
+  "providerKey": "upstage",
+  "released": "2026-09-23",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "solar",
+  "tags": [
+   "Proprietary",
+   "Long Context"
+  ],
+  "summary": "Solar Mini 4 is Upstage's compact, cost-efficient language model, a 35B-parameter mixture-of-experts with 3B active parameters and a 524K context window. It is built for agentic use cases where response...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/upstage/solar-mini4",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:anthropic/claude-opus-5.5",
   "modelId": "or:anthropic/claude-opus-5.5",
   "title": "Claude Opus 5.5 listed",

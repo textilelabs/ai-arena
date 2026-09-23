@@ -260,6 +260,16 @@
   "latestModel": "Granite 4.2 8B"
  },
  {
+  "key": "upstage",
+  "name": "Upstage",
+  "monogram": "UP",
+  "color": "#45d35f",
+  "blurb": "Models tracked from Upstage.",
+  "modelCount": 3,
+  "latestRelease": "2026-09-23",
+  "latestModel": "Solar Mini 4"
+ },
+ {
   "key": "arcee-ai",
   "name": "Arcee Ai",
   "monogram": "AR",
@@ -408,16 +418,6 @@
   "modelCount": 2,
   "latestRelease": "2026-07-30",
   "latestModel": "Inkling Small"
- },
- {
-  "key": "upstage",
-  "name": "Upstage",
-  "monogram": "UP",
-  "color": "#45d35f",
-  "blurb": "Models tracked from Upstage.",
-  "modelCount": 2,
-  "latestRelease": "2026-08-10",
-  "latestModel": "Solar Pro 4"
  },
  {
   "key": "allenai",
