@@ -80,6 +80,16 @@
   "latestModel": "Muse Spark 1.3"
  },
  {
+  "key": "inclusionai",
+  "name": "InclusionAI",
+  "monogram": "IN",
+  "color": "#45d362",
+  "blurb": "Models tracked from InclusionAI.",
+  "modelCount": 13,
+  "latestRelease": "2026-09-05",
+  "latestModel": "LLaDA2.2-mini"
+ },
+ {
   "key": "bytedance",
   "name": "ByteDance",
   "monogram": "B",
@@ -108,16 +118,6 @@
   "modelCount": 9,
   "latestRelease": "2026-07-16",
   "latestModel": "Kimi K3"
- },
- {
-  "key": "inclusionai",
-  "name": "InclusionAI",
-  "monogram": "IN",
-  "color": "#45d362",
-  "blurb": "Models tracked from InclusionAI.",
-  "modelCount": 8,
-  "latestRelease": "2026-09-05",
-  "latestModel": "LLaDA2.2-mini"
  },
  {
   "key": "minimax",
@@ -468,6 +468,16 @@
   "modelCount": 1,
   "latestRelease": "2026-09-08",
   "latestModel": "Edge0-35B-A3B-preview"
+ },
+ {
+  "key": "fireworks",
+  "name": "Fireworks",
+  "monogram": "FI",
+  "color": "#45d388",
+  "blurb": "Models tracked from Fireworks.",
+  "modelCount": 1,
+  "latestRelease": "2026-09-24",
+  "latestModel": "Ember-1"
  },
  {
   "key": "incoai",

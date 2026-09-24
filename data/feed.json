@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:fireworks/ember-1",
+  "modelId": "or:fireworks/ember-1",
+  "title": "Ember-1 listed",
+  "provider": "Fireworks",
+  "providerKey": "fireworks",
+  "released": "2026-09-24",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ember",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Ember-1 is a specialized reasoning model from Fireworks Research, built on Kimi K3. It is designed to make every token go further: it produces shorter reasoning traces, using roughly 40%...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/fireworks/ember-1",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:qwen/qwen3.8-max-prime",
   "modelId": "or:qwen/qwen3.8-max-prime",
   "title": "Qwen3.8 Max Prime listed",
@@ -5512,6 +5538,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:inclusionAI/Ling-2.5-1T",
+  "modelId": "hf:inclusionAI/Ling-2.5-1T",
+  "title": "Ling-2.5-1T listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2026-02-14",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ling",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Today, we launch Ling-2.5-1T and make it open source. Thinking models raise the ceiling of intelligence, while instant models expand its reach by balancing efficiency and performance—making AGI not only more powerful, but also more accessible. As the latest flagship instant model in the Ling family, Ling-2.5-1T delivers comprehensive upgrades across model architecture, token efficiency, and preference alignment, designed to bring universally accessible AI to a new level of quality. We have conducted a comprehensive evaluation of Ling-2.5-1T across multiple authoritative benchmarks, covering domains such as knowledge, reasoning, agentic performance, instruction following, and long-context processing. Compared to its predecessor, Ling-1T, Ling-2.5-1T delivers a holistic upgrade in capabilities, standing as the most powerful instant model in the Ling family to date. Furthermore, when compar",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/inclusionAI/Ling-2.5-1T",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-mm25",
   "modelId": "mm25",
   "title": "MiniMax M2.5 ships",
@@ -5561,6 +5611,30 @@
   "summary": "744B MoE / 40B active. First publicly traded foundation model company (HK IPO Jan 2026). Tsinghua spinoff. MIT license.",
   "highlights": [],
   "sourceUrl": "https://docs.z.ai/release-notes/new-released",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-hf:inclusionAI/Ring-2.5-1T",
+  "modelId": "hf:inclusionAI/Ring-2.5-1T",
+  "title": "Ring-2.5-1T listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2026-02-10",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ring",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Introducing Ring-2.5-1T: the world's first open-source trillion-parameter thinking model based on hybrid linear attention architecture. In a major step toward general-purpose AI agents, we're scaling hybrid linear attention across pre-training and RL. Our efficient 1:7 MLA + Lightning Linear Attention boosts reasoning speed and exploration, while expanded RL training enhances deep thinking and long-horizon task execution. Compared to the previously released Ring-1T, Ring-2.5-1T demonstrates substantial improvements across three key dimensions: generation efficiency, reasoning depth, and long-horizon task execution capabilities：",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
   "access": "Open",
   "type": "General",
   "benchmarkCount": 0
@@ -6908,6 +6982,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:inclusionAI/Ring-1T",
+  "modelId": "hf:inclusionAI/Ring-1T",
+  "title": "Ring-1T listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2025-10-10",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ring",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Today, we officially launch the trillion-parameter thinking model, Ring-1T. It is open-source upon release—developers can download the model weights from Hugging Face and ModelScope, or experience direct chat interactions and API calls via the Ling Chat page and ZenMux (links provided at the end of the article). Building upon the preview version released at the end of last month, Ring-1T has undergone continued scaling with large-scale verifiable reward reinforcement learning (RLVR) training, further unlocking the natural language reasoning capabilities of the trillion-parameter foundation model. Through RLHF training, the model's general abilities have also been refined, making this release of Ring-1T more balanced in performance across various tasks.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/inclusionAI/Ring-1T",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:google/gemini-2.5-flash-image",
   "modelId": "or:google/gemini-2.5-flash-image",
   "title": "Nano Banana (Gemini 2.5 Flash Image) listed",
@@ -7263,6 +7361,30 @@
   "benchmarkCount": 5
  },
  {
+  "id": "feed-hf:inclusionAI/Ring-flash-2.0",
+  "modelId": "hf:inclusionAI/Ring-flash-2.0",
+  "title": "Ring-flash-2.0 listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2025-09-19",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ring",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "This model is presented in the paper Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model. The official code repository is available at: https://github.com/inclusionAI/Ring-V2. Today, we are officially open-sourcing Ring-flash-2.0. This is a high-performance thinking model, deeply optimized based on Ling-flash-2.0-base. Like Ling-flash-2.0, Ring-flash-2.0 has a total of 100B parameters, with only 6.1B activated per inference. Our independently developed icepop algorithm has successfully addressed the challenge of training instability in reinforcement learning (RL) for MoE LLMs after cold-start Long-CoT SFT, enabling the model’s complex reasoning capabilities to continuously improve throughout extended RL training cycles.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/inclusionAI/Ring-flash-2.0",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:qwen/qwen3-coder-flash",
   "modelId": "or:qwen/qwen3-coder-flash",
   "title": "Qwen3 Coder Flash listed",
@@ -7360,6 +7482,30 @@
   "sourceUrl": "https://openrouter.ai/qwen/qwen-plus-2025-07-28",
   "access": "Closed",
   "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-hf:inclusionAI/Ring-mini-2.0",
+  "modelId": "hf:inclusionAI/Ring-mini-2.0",
+  "title": "Ring-mini-2.0 listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2025-09-08",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "ring",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "This model is presented in the paper Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model. Today, we officially release Ring-mini-2.0 — a high-performance inference-oriented MoE model deeply optimized based on the Ling 2.0 architecture. With only 16B total parameters and 1.4B activated parameters, it achieves comprehensive reasoning capabilities comparable to dense models below the 10B scale. It excels particularly in logical reasoning, code generation, and mathematical tasks, while supporting 128K long-context processing and 300+ tokens/s high-speed generation.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/inclusionAI/Ring-mini-2.0",
+  "access": "Open",
+  "type": "General",
   "benchmarkCount": 0
  },
  {
