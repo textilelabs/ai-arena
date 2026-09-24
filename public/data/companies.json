@@ -50,6 +50,16 @@
   "latestModel": "DeepSeek Flash Latest"
  },
  {
+  "key": "zhipu",
+  "name": "Zhipu AI",
+  "monogram": "Z",
+  "color": "#3b5bdb",
+  "blurb": "Chinese lab behind the GLM model family.",
+  "modelCount": 21,
+  "latestRelease": "2026-09-23",
+  "latestModel": "GLM 5.3 Prime"
+ },
+ {
   "key": "anthropic",
   "name": "Anthropic",
   "monogram": "A",
@@ -58,16 +68,6 @@
   "modelCount": 20,
   "latestRelease": "2026-09-22",
   "latestModel": "Claude Opus 5.5"
- },
- {
-  "key": "zhipu",
-  "name": "Zhipu AI",
-  "monogram": "Z",
-  "color": "#3b5bdb",
-  "blurb": "Chinese lab behind the GLM model family.",
-  "modelCount": 20,
-  "latestRelease": "2026-09-18",
-  "latestModel": "GLM 5.3 FlashX"
  },
  {
   "key": "meta",
