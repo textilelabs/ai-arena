@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T10:41:35.704Z",
+ "generatedAt": "2026-09-24T13:39:34.474Z",
  "source": "openrouter+huggingface+vendor-notes",
  "modelCount": 407,
  "measuredCount": 96,
@@ -9,13 +9,13 @@
    "source": "openrouter",
    "status": "ok",
    "models": 458,
-   "note": "1 new"
+   "note": "0 new"
   },
   {
    "source": "huggingface-hub",
    "status": "ok",
    "models": 160,
-   "note": "5 new"
+   "note": "0 new"
   },
   {
    "source": "vendor-notes",
