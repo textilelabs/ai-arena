@@ -51,6 +51,31 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-or:z-ai/glm-5.3-prime",
+  "modelId": "or:z-ai/glm-5.3-prime",
+  "title": "GLM 5.3 Prime listed",
+  "provider": "Zhipu AI",
+  "providerKey": "zhipu",
+  "released": "2026-09-23",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "glm",
+  "tags": [
+   "Proprietary",
+   "Long Context"
+  ],
+  "summary": "GLM-5.3-Prime is the high-speed variant of Z.ai's GLM-5.3, inheriting its full capabilities while delivering 1.5–2× the output throughput through inference acceleration. It supports text input and output with a 1M-token...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/z-ai/glm-5.3-prime",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:stealth/space-bunny-alpha",
   "modelId": "or:stealth/space-bunny-alpha",
   "title": "Space Bunny Alpha listed",
