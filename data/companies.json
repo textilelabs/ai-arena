@@ -360,6 +360,16 @@
   "latestModel": "Ornith-1.5-35B-A3B"
  },
  {
+  "key": "perceptron",
+  "name": "Perceptron",
+  "monogram": "PE",
+  "color": "#45bcd3",
+  "blurb": "Models tracked from Perceptron.",
+  "modelCount": 2,
+  "latestRelease": "2026-09-25",
+  "latestModel": "Perceptron Mk1.5"
+ },
+ {
   "key": "poolside",
   "name": "Poolside",
   "monogram": "PO",
@@ -528,16 +538,6 @@
   "modelCount": 1,
   "latestRelease": "2026-05-19",
   "latestModel": "MOSS-Transcribe-Diarize"
- },
- {
-  "key": "perceptron",
-  "name": "Perceptron",
-  "monogram": "PE",
-  "color": "#45bcd3",
-  "blurb": "Models tracked from Perceptron.",
-  "modelCount": 1,
-  "latestRelease": "2026-05-12",
-  "latestModel": "Perceptron Mk1"
  },
  {
   "key": "prism-ml",

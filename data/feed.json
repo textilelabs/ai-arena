@@ -1,5 +1,30 @@
 [
  {
+  "id": "feed-or:perceptron/perceptron-mk1.5",
+  "modelId": "or:perceptron/perceptron-mk1.5",
+  "title": "Perceptron Mk1.5 listed",
+  "provider": "Perceptron",
+  "providerKey": "perceptron",
+  "released": "2026-09-25",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "perceptron",
+  "tags": [
+   "Proprietary",
+   "Multimodal"
+  ],
+  "summary": "Perceptron Mk1.5 is Perceptron's embodied reasoning model for physical agents. It accepts text, image, video, and audio input, and answers with text plus optional structured annotations: points, boxes, polygons, tracks,...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/perceptron/perceptron-mk1.5",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:fireworks/ember-1",
   "modelId": "or:fireworks/ember-1",
   "title": "Ember-1 listed",
