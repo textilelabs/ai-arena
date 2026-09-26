@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:typesafe/jev-router",
+  "modelId": "or:typesafe/jev-router",
+  "title": "Jev Router listed",
+  "provider": "Typesafe",
+  "providerKey": "typesafe",
+  "released": "2026-09-25",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "jev",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Jev Router picks the best model and reasoning effort for each request, balancing quality, speed, and cost. It runs on Jev, TypeSafe's first System One model, and adapts as your...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/typesafe/jev-router",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:perceptron/perceptron-mk1.5",
   "modelId": "or:perceptron/perceptron-mk1.5",
   "title": "Perceptron Mk1.5 listed",

@@ -560,6 +560,16 @@
   "latestModel": "tiny-Qwen2ForCausalLM-2.5"
  },
  {
+  "key": "typesafe",
+  "name": "Typesafe",
+  "monogram": "TY",
+  "color": "#c845d3",
+  "blurb": "Models tracked from Typesafe.",
+  "modelCount": 1,
+  "latestRelease": "2026-09-25",
+  "latestModel": "Jev Router"
+ },
+ {
   "key": "unbiased",
   "name": "Unbiased",
   "monogram": "UN",
