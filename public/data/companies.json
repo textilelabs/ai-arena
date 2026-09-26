@@ -590,6 +590,16 @@
   "latestModel": "Palmyra X5"
  },
  {
+  "key": "xiaomimimo",
+  "name": "Xiaomimimo",
+  "monogram": "XI",
+  "color": "#45d347",
+  "blurb": "Models tracked from Xiaomimimo.",
+  "modelCount": 1,
+  "latestRelease": "2026-09-21",
+  "latestModel": "MiMo-V2.6-Pro-RL"
+ },
+ {
   "key": "youssofal",
   "name": "Youssofal",
   "monogram": "YO",

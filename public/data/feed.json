@@ -385,6 +385,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:XiaomiMiMo/MiMo-V2.6-Pro-RL",
+  "modelId": "hf:XiaomiMiMo/MiMo-V2.6-Pro-RL",
+  "title": "MiMo-V2.6-Pro-RL listed",
+  "provider": "Xiaomimimo",
+  "providerKey": "xiaomimimo",
+  "released": "2026-09-21",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "mimo",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Scaling Reinforcement Learning Toward Self-Improvement MiMo-V2.6-Pro-RL is the flagship checkpoint of the MiMo-V2.6 series. The series is built to scale reinforcement learning toward self-improvement — scaling RL compute, environment diversity, and grader compute together, so the model keeps expanding its capability frontier through exploration and feedback. Key features include: The first Transformer block uses global attention with a dense FFN. Remaining blocks interleave local SWA and GA; both use sparse MoE FFNs without shared experts.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:xiaomi/mimo-v2.6-pro-ultraspeed",
   "modelId": "or:xiaomi/mimo-v2.6-pro-ultraspeed",
   "title": "MiMo-V2.6-Pro-UltraSpeed listed",
