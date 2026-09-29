@@ -15,9 +15,9 @@
   "monogram": "AI",
   "color": "#10a37f",
   "blurb": "Maker of the GPT and o-series frontier models.",
-  "modelCount": 54,
-  "latestRelease": "2026-09-22",
-  "latestModel": "GPT-6 Luna"
+  "modelCount": 56,
+  "latestRelease": "2026-09-29",
+  "latestModel": "GPT-6.1 Sol"
  },
  {
   "key": "google",
@@ -538,6 +538,16 @@
   "modelCount": 1,
   "latestRelease": "2026-05-19",
   "latestModel": "MOSS-Transcribe-Diarize"
+ },
+ {
+  "key": "pipecat-ai",
+  "name": "Pipecat Ai",
+  "monogram": "PI",
+  "color": "#8a45d3",
+  "blurb": "Models tracked from Pipecat Ai.",
+  "modelCount": 1,
+  "latestRelease": "2026-08-24",
+  "latestModel": "phonellm-alpha-1"
  },
  {
   "key": "prism-ml",
