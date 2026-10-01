@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:unbiased/pareto-26.10-preview",
+  "modelId": "or:unbiased/pareto-26.10-preview",
+  "title": "Pareto 26.10 Preview listed",
+  "provider": "Unbiased",
+  "providerKey": "unbiased",
+  "released": "2026-10-01",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "pareto",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. This is a preview of the...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/unbiased/pareto-26.10-preview",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:openai/gpt-6.1-sol",
   "modelId": "or:openai/gpt-6.1-sol",
   "title": "GPT-6.1 Sol listed",

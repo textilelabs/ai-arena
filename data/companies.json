@@ -430,6 +430,16 @@
   "latestModel": "Inkling Small"
  },
  {
+  "key": "unbiased",
+  "name": "Unbiased",
+  "monogram": "UN",
+  "color": "#9345d3",
+  "blurb": "Models tracked from Unbiased.",
+  "modelCount": 2,
+  "latestRelease": "2026-10-01",
+  "latestModel": "Pareto 26.10 Preview"
+ },
+ {
   "key": "allenai",
   "name": "Allenai",
   "monogram": "AL",
@@ -578,16 +588,6 @@
   "modelCount": 1,
   "latestRelease": "2026-09-25",
   "latestModel": "Jev Router"
- },
- {
-  "key": "unbiased",
-  "name": "Unbiased",
-  "monogram": "UN",
-  "color": "#9345d3",
-  "blurb": "Models tracked from Unbiased.",
-  "modelCount": 1,
-  "latestRelease": "2026-09-17",
-  "latestModel": "Pareto"
  },
  {
   "key": "writer",
