@@ -1,5 +1,30 @@
 [
  {
+  "id": "feed-or:inclusionai/ling-3.1-flash",
+  "modelId": "or:inclusionai/ling-3.1-flash",
+  "title": "Ling 3.1 Flash listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2026-10-02",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ling",
+  "tags": [
+   "Proprietary",
+   "Long Context"
+  ],
+  "summary": "Ling 3.1 Flash is a hybrid reasoning mixture-of-experts model from inclusionAI, with 25B active parameters out of 560B total.",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/inclusionai/ling-3.1-flash",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:unbiased/pareto-26.10-preview",
   "modelId": "or:unbiased/pareto-26.10-preview",
   "title": "Pareto 26.10 Preview listed",
