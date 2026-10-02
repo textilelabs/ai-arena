@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-10-02T11:31:00.637Z",
+ "generatedAt": "2026-10-02T14:50:47.857Z",
  "source": "openrouter+huggingface+vendor-notes",
- "modelCount": 414,
+ "modelCount": 415,
  "measuredCount": 96,
- "imputedCount": 318,
+ "imputedCount": 319,
  "sourceStatuses": [
   {
    "source": "openrouter",
    "status": "ok",
-   "models": 464,
-   "note": "0 new"
+   "models": 465,
+   "note": "1 new"
   },
   {
    "source": "huggingface-hub",
