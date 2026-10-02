@@ -564,6 +564,31 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-or:nvidia/switchyard",
+  "modelId": "or:nvidia/switchyard",
+  "title": "Switchyard listed",
+  "provider": "NVIDIA",
+  "providerKey": "nvidia",
+  "released": "2026-09-21",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "switchyard",
+  "tags": [
+   "Proprietary",
+   "Long Context"
+  ],
+  "summary": "Switchyard routes each request among the models you list in models, using a routing decision from NVIDIA's open-source Switchyard library running on OpenRouter's edge. Pass model: nvidia/switchyard plus two or...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/nvidia/switchyard",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:prism-ml/ternary-bonsai-2-27b",
   "modelId": "or:prism-ml/ternary-bonsai-2-27b",
   "title": "Ternary Bonsai 2 27B ships",
