@@ -440,6 +440,16 @@
   "latestModel": "Pareto 26.10 Preview"
  },
  {
+  "key": "xiaomimimo",
+  "name": "Xiaomimimo",
+  "monogram": "XI",
+  "color": "#45d347",
+  "blurb": "Models tracked from Xiaomimimo.",
+  "modelCount": 2,
+  "latestRelease": "2026-09-21",
+  "latestModel": "MiMo-V2.6-Flash-RL"
+ },
+ {
   "key": "allenai",
   "name": "Allenai",
   "monogram": "AL",
@@ -600,14 +610,14 @@
   "latestModel": "Palmyra X5"
  },
  {
-  "key": "xiaomimimo",
-  "name": "Xiaomimimo",
+  "key": "xingchen-agi",
+  "name": "Xingchen Agi",
   "monogram": "XI",
-  "color": "#45d347",
-  "blurb": "Models tracked from Xiaomimimo.",
+  "color": "#45cfd3",
+  "blurb": "Models tracked from Xingchen Agi.",
   "modelCount": 1,
-  "latestRelease": "2026-09-21",
-  "latestModel": "MiMo-V2.6-Pro-RL"
+  "latestRelease": "2026-09-16",
+  "latestModel": "Xing4.0-29B-A4B"
  },
  {
   "key": "youssofal",
