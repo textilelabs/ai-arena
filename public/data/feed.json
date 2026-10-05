@@ -180,6 +180,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:autotrust/JEV-9B",
+  "modelId": "hf:autotrust/JEV-9B",
+  "title": "JEV-9B ships",
+  "provider": "Autotrust",
+  "providerKey": "autotrust",
+  "released": "2026-09-23",
+  "ultimateScore": 51.7,
+  "scoreStatus": "partial",
+  "measuredScore": 72.9,
+  "imputationReason": "Partial (1 verified benchmark). Omission penalty applied for missing benchmarks.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "jev",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Fast, calibrated System 1 decisions that are indistinguishable from the closed TypeSafe Jev 1.13 by KL, and deliberate System 2 generation and reasoning from an untouched Qwen3.5-9B — one set of weights, one vLLM engine, routed per request. The fastest model of the family: it answers a single decision in about a third of the time the hosted API takes. Its successor, autotrust/JEV-27B, is closer to Jev, transfers better to unseen tasks and has a stronger System 2. JEV-9B now takes images. Every step below is one System 1 decision: camera image or screenshot in, a probability",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/autotrust/JEV-9B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 1
+ },
+ {
   "id": "feed-or:qwen/qwen3.8-max-prime",
   "modelId": "or:qwen/qwen3.8-max-prime",
   "title": "Qwen3.8 Max Prime listed",
