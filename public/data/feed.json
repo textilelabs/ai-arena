@@ -26,6 +26,31 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-or:google/gemini-nano-banana-2.1",
+  "modelId": "or:google/gemini-nano-banana-2.1",
+  "title": "Nano Banana 2.1 listed",
+  "provider": "Google",
+  "providerKey": "google",
+  "released": "2026-10-06",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "nano",
+  "tags": [
+   "Proprietary",
+   "Multimodal"
+  ],
+  "summary": "Nano Banana 2.1 (Gemini Nano Banana 2.1) is Google's image generation and editing model on the Flash tier, succeeding Nano Banana 2 and Nano Banana Pro. It improves product recontextualization,...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/google/gemini-nano-banana-2.1",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:inclusionai/ling-3.1-flash",
   "modelId": "or:inclusionai/ling-3.1-flash",
   "title": "Ling 3.1 Flash listed",
