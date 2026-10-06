@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:mistralai/mistral-large-4-0",
+  "modelId": "or:mistralai/mistral-large-4-0",
+  "title": "Mistral Large 4 listed",
+  "provider": "Mistral AI",
+  "providerKey": "mistral",
+  "released": "2026-10-06",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "mistral",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Mistral Large 4 is a frontier multimodal (text and image input) model from Mistral AI built for reasoning, coding, and agentic workloads. It offers a 512K-token context window with up...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/mistralai/mistral-large-4-0",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:inclusionai/ling-3.1-flash",
   "modelId": "or:inclusionai/ling-3.1-flash",
   "title": "Ling 3.1 Flash listed",
