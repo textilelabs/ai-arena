@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:anthropic/claude-haiku-5.5",
+  "modelId": "or:anthropic/claude-haiku-5.5",
+  "title": "Claude Haiku 5.5 listed",
+  "provider": "Anthropic",
+  "providerKey": "anthropic",
+  "released": "2026-10-07",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "claude",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Claude Haiku 5.5 is Anthropic's small, fast model for high-volume, cost-sensitive work such as summarization, subagents, and browser use. It succeeds Claude Haiku 4.5 with stronger coding, computer use, and...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/anthropic/claude-haiku-5.5",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:mistralai/mistral-large-4-0",
   "modelId": "or:mistralai/mistral-large-4-0",
   "title": "Mistral Large 4 listed",

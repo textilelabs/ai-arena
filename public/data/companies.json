@@ -40,6 +40,16 @@
   "latestModel": "Mistral Large 4"
  },
  {
+  "key": "anthropic",
+  "name": "Anthropic",
+  "monogram": "A",
+  "color": "#d97757",
+  "blurb": "Creator of the Claude model family and originator of Constitutional AI.",
+  "modelCount": 22,
+  "latestRelease": "2026-10-07",
+  "latestModel": "Claude Haiku 5.5"
+ },
+ {
   "key": "deepseek",
   "name": "DeepSeek",
   "monogram": "D",
@@ -48,16 +58,6 @@
   "modelCount": 22,
   "latestRelease": "2026-09-14",
   "latestModel": "DeepSeek Flash Latest"
- },
- {
-  "key": "anthropic",
-  "name": "Anthropic",
-  "monogram": "A",
-  "color": "#d97757",
-  "blurb": "Creator of the Claude model family and originator of Constitutional AI.",
-  "modelCount": 21,
-  "latestRelease": "2026-09-28",
-  "latestModel": "Claude Sonnet 5.5"
  },
  {
   "key": "zhipu",
