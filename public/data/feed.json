@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:stepfun/step-5-preview",
+  "modelId": "or:stepfun/step-5-preview",
+  "title": "Step 5 Preview listed",
+  "provider": "Stepfun",
+  "providerKey": "stepfun",
+  "released": "2026-10-08",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "step",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Step 5 Preview is StepFun's flagship model for agentic work, built on a sparse Mixture-of-Experts architecture (27B active / 600B total parameters). It performs strongly in software engineering and professional...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/stepfun/step-5-preview",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:anthropic/claude-haiku-5.5",
   "modelId": "or:anthropic/claude-haiku-5.5",
   "title": "Claude Haiku 5.5 listed",
