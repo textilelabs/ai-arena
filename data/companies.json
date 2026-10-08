@@ -85,7 +85,7 @@
   "monogram": "IN",
   "color": "#45d362",
   "blurb": "Models tracked from InclusionAI.",
-  "modelCount": 14,
+  "modelCount": 15,
   "latestRelease": "2026-10-02",
   "latestModel": "Ling 3.1 Flash"
  },
@@ -528,6 +528,16 @@
   "modelCount": 1,
   "latestRelease": "2026-08-18",
   "latestModel": "Qwen3.8-27B-DFlash2"
+ },
+ {
+  "key": "lightonai",
+  "name": "Lightonai",
+  "monogram": "LI",
+  "color": "#d38a45",
+  "blurb": "Models tracked from Lightonai.",
+  "modelCount": 1,
+  "latestRelease": "2026-01-16",
+  "latestModel": "LightOnOCR-2-1B"
  },
  {
   "key": "liquidai",
