@@ -1323,6 +1323,31 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-or:inclusionai/ling-3.0-flash-sante",
+  "modelId": "or:inclusionai/ling-3.0-flash-sante",
+  "title": "Ling 3.0 Flash Sante listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2026-09-04",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ling",
+  "tags": [
+   "Proprietary",
+   "Long Context"
+  ],
+  "summary": "Ling 3.0 Flash Sante is a health and medicine-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/inclusionai/ling-3.0-flash-sante",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:inclusionAI/Ling-3.0-flash-VL",
   "modelId": "hf:inclusionAI/Ling-3.0-flash-VL",
   "title": "Ling-3.0-flash-VL listed",
@@ -6322,6 +6347,30 @@
   "highlights": [],
   "sourceUrl": "https://openrouter.ai/openai/gpt-audio-mini",
   "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-hf:lightonai/LightOnOCR-2-1B",
+  "modelId": "hf:lightonai/LightOnOCR-2-1B",
+  "title": "LightOnOCR-2-1B listed",
+  "provider": "Lightonai",
+  "providerKey": "lightonai",
+  "released": "2026-01-16",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "lightonocr",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "📄 Paper | 📝 Blog | 🚀 Demo | 📊 Dataset | 📓 Finetuning Best OCR model . LightOnOCR-2-1B is LightOn's flagship OCR model, refined with RLVR training for maximum accuracy. We recommend this variant for most OCR tasks. LightOnOCR-2 is an efficient end-to-end 1B-parameter vision-language model for converting documents (PDFs, scans, images) into clean, naturally ordered text without relying on brittle pipelines. This second version is trained on a larger and higher-quality corpus with stronger French, arXiv, and scan coverage, improved LaTeX handling, and cleaner normalization. LightOnOCR-2 achieves state-of-the-art performance on OlmOCR-Bench while being ~9× smaller and significantly faster than competing approaches.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/lightonai/LightOnOCR-2-1B",
+  "access": "Open",
   "type": "General",
   "benchmarkCount": 0
  },
