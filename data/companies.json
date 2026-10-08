@@ -270,6 +270,16 @@
   "latestModel": "Space Bunny Alpha"
  },
  {
+  "key": "stepfun",
+  "name": "Stepfun",
+  "monogram": "ST",
+  "color": "#d3459d",
+  "blurb": "Models tracked from Stepfun.",
+  "modelCount": 3,
+  "latestRelease": "2026-10-08",
+  "latestModel": "Step 5 Preview"
+ },
+ {
   "key": "upstage",
   "name": "Upstage",
   "monogram": "UP",
@@ -408,16 +418,6 @@
   "modelCount": 2,
   "latestRelease": "2024-12-18",
   "latestModel": "Llama 3.3 Euryale 70B"
- },
- {
-  "key": "stepfun",
-  "name": "Stepfun",
-  "monogram": "ST",
-  "color": "#d3459d",
-  "blurb": "Models tracked from Stepfun.",
-  "modelCount": 2,
-  "latestRelease": "2026-05-28",
-  "latestModel": "Step 3.7 Flash"
  },
  {
   "key": "thinkingmachines",
