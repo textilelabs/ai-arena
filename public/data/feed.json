@@ -1,5 +1,29 @@
 [
  {
+  "id": "feed-hf:tencent/Youtu-Parsing-Omni",
+  "modelId": "hf:tencent/Youtu-Parsing-Omni",
+  "title": "Youtu-Parsing-Omni listed",
+  "provider": "Tencent",
+  "providerKey": "tencent",
+  "released": "2026-10-09",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "youtu",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Youtu-Parsing-Omni is a compact (5B) omni-modal parsing model. Given a single input — a document page, a natural image, a chart / flowchart, a geometry figure, an audio clip or an audio-visual video — it produces one structured JSON envelope that covers both perception (layout elements, text, tables, formulas, bounding boxes, timestamps, ASR, OCR, acoustic events, camera motion) and cognition (captions, narratives, reports). The output family is selected by the task prompt (--task in the examples, keys of",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/tencent/Youtu-Parsing-Omni",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:stepfun/step-5-preview",
   "modelId": "or:stepfun/step-5-preview",
   "title": "Step 5 Preview listed",
