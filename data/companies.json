@@ -500,6 +500,16 @@
   "latestModel": "Uncensored"
  },
  {
+  "key": "conwayresearch",
+  "name": "Conwayresearch",
+  "monogram": "CO",
+  "color": "#45d391",
+  "blurb": "Models tracked from Conwayresearch.",
+  "modelCount": 1,
+  "latestRelease": "2026-10-08",
+  "latestModel": "Underdog-Saluki-27B-1.0"
+ },
+ {
   "key": "edge0",
   "name": "Edge0",
   "monogram": "ED",
