@@ -24,6 +24,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:ConwayResearch/Underdog-Saluki-27B-1.0",
+  "modelId": "hf:ConwayResearch/Underdog-Saluki-27B-1.0",
+  "title": "Underdog-Saluki-27B-1.0 ships",
+  "provider": "Conwayresearch",
+  "providerKey": "conwayresearch",
+  "released": "2026-10-08",
+  "ultimateScore": 35.3,
+  "scoreStatus": "partial",
+  "measuredScore": 49.6,
+  "imputationReason": "Partial (2 verified benchmarks). Omission penalty applied for missing benchmarks.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "underdog",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Qwen3.8-27B in under 8 GB, tuned to keep tool calling intact. A standard GGUF for stock llama.cpp.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 2
+ },
+ {
   "id": "feed-or:stepfun/step-5-preview",
   "modelId": "or:stepfun/step-5-preview",
   "title": "Step 5 Preview listed",
