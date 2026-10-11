@@ -120,6 +120,16 @@
   "latestModel": "Kimi K3"
  },
  {
+  "key": "amazon",
+  "name": "Amazon",
+  "monogram": "AZ",
+  "color": "#ff9900",
+  "blurb": "Amazon — Nova foundation models.",
+  "modelCount": 8,
+  "latestRelease": "2026-10-02",
+  "latestModel": "ALoDLM-8B"
+ },
+ {
   "key": "minimax",
   "name": "MiniMax",
   "monogram": "X",
@@ -128,16 +138,6 @@
   "modelCount": 8,
   "latestRelease": "2026-06-01",
   "latestModel": "MiniMax M3"
- },
- {
-  "key": "amazon",
-  "name": "Amazon",
-  "monogram": "AZ",
-  "color": "#ff9900",
-  "blurb": "Amazon — Nova foundation models.",
-  "modelCount": 7,
-  "latestRelease": "2025-12-02",
-  "latestModel": "Nova 2 Pro Preview"
  },
  {
   "key": "tencent",
