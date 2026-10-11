@@ -151,6 +151,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:amazon/ALoDLM-8B",
+  "modelId": "hf:amazon/ALoDLM-8B",
+  "title": "ALoDLM-8B listed",
+  "provider": "Amazon",
+  "providerKey": "amazon",
+  "released": "2026-10-02",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "alodlm",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Paper: ALoDLM: Adaptively Looped Diffusion Language Models · Project page: https://alo-dlm.github.io/ ALoDLM is a family of diffusion language models developed at Amazon, available as ALoDLM-1.7B and ALoDLM-8B and initialized from the corresponding Qwen3 backbones. The models generate text and code by repeatedly applying shared transformer layers, preserving unresolved tokens' latent states, and adaptively allocating computation across token positions. Training data includes mathematical problems and worked solutions, programming tasks and code solutions, and instruction-formatted text.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/amazon/ALoDLM-8B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:inclusionai/ling-3.1-flash",
   "modelId": "or:inclusionai/ling-3.1-flash",
   "title": "Ling 3.1 Flash listed",
