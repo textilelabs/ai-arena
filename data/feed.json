@@ -9343,6 +9343,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:Qwen/Qwen3-4B",
+  "modelId": "hf:Qwen/Qwen3-4B",
+  "title": "Qwen3-4B listed",
+  "provider": "Alibaba / Qwen",
+  "providerKey": "alibaba",
+  "released": "2025-04-27",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "qwen3",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, instruction-following, agent capabilities, and multilingual support, with the following key features: For more details, including benchmark evaluation, hardware requirements, and inference performance, please refer to our blog, GitHub, and Documentation. The code of Qwen3 has been in the latest Hugging Face transformers and we advise you to use the latest version of transformers.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/Qwen/Qwen3-4B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-o3",
   "modelId": "o3",
   "title": "o3 ships",
