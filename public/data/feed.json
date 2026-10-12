@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:meta/muse-wonder",
+  "modelId": "or:meta/muse-wonder",
+  "title": "Muse Wonder listed",
+  "provider": "Meta",
+  "providerKey": "meta",
+  "released": "2026-10-12",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "muse",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Muse Wonder is a frontier reasoning model from Meta, designed for complex personal and professional agentic tasks. It accepts text, images, video, audio, and PDF documents and returns text, with...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/meta/muse-wonder",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:tencent/Youtu-Parsing-Omni",
   "modelId": "hf:tencent/Youtu-Parsing-Omni",
   "title": "Youtu-Parsing-Omni listed",
@@ -10134,6 +10160,30 @@
   "access": "Open",
   "type": "Reasoning",
   "benchmarkCount": 4
+ },
+ {
+  "id": "feed-hf:deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "modelId": "hf:deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "title": "DeepSeek-R1-Distill-Qwen-1.5B ships",
+  "provider": "DeepSeek",
+  "providerKey": "deepseek",
+  "released": "2025-01-20",
+  "ultimateScore": 67.6,
+  "scoreStatus": "measured",
+  "measuredScore": 74.9,
+  "imputationReason": null,
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "deepseek",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated remarkable performance on reasoning. With RL, DeepSeek-R1-Zero naturally emerged with numerous powerful and interesting reasoning behaviors. However, DeepSeek-R1-Zero encounters challenges such as endless repetition, poor readability, and language mixing. To address these issues and further enhance reasoning performance,",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 6
  },
  {
   "id": "feed-or:minimax/minimax-01",
