@@ -570,6 +570,16 @@
   "latestModel": "LightOnOCR-2-1B"
  },
  {
+  "key": "liquid",
+  "name": "Liquid",
+  "monogram": "LI",
+  "color": "#62d345",
+  "blurb": "Models tracked from Liquid.",
+  "modelCount": 1,
+  "latestRelease": "2026-10-13",
+  "latestModel": "LFM2.5-24B-A2B"
+ },
+ {
   "key": "liquidai",
   "name": "Liquidai",
   "monogram": "LI",
