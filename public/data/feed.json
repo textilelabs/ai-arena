@@ -26,6 +26,32 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-or:google/gemini-4-argon",
+  "modelId": "or:google/gemini-4-argon",
+  "title": "Gemini 4 Argon listed",
+  "provider": "Google",
+  "providerKey": "google",
+  "released": "2026-10-13",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "gemini",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Gemini 4 Argon is a frontier Gemini model from Google built for coding, agentic, and complex reasoning tasks. It supports long outputs of up to 1M tokens through continuation, with...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/google/gemini-4-argon",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:scaledown/summarize",
   "modelId": "or:scaledown/summarize",
   "title": "Summarize listed",
