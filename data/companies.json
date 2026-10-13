@@ -30,6 +30,16 @@
   "latestModel": "Nano Banana 2.1"
  },
  {
+  "key": "deepseek",
+  "name": "DeepSeek",
+  "monogram": "D",
+  "color": "#4d6bfe",
+  "blurb": "Chinese lab behind DeepSeek V/R reasoning models.",
+  "modelCount": 24,
+  "latestRelease": "2026-09-14",
+  "latestModel": "DeepSeek Flash Latest"
+ },
+ {
   "key": "mistral",
   "name": "Mistral AI",
   "monogram": "M",
@@ -38,16 +48,6 @@
   "modelCount": 24,
   "latestRelease": "2026-10-06",
   "latestModel": "Mistral Large 4"
- },
- {
-  "key": "deepseek",
-  "name": "DeepSeek",
-  "monogram": "D",
-  "color": "#4d6bfe",
-  "blurb": "Chinese lab behind DeepSeek V/R reasoning models.",
-  "modelCount": 23,
-  "latestRelease": "2026-09-14",
-  "latestModel": "DeepSeek Flash Latest"
  },
  {
   "key": "anthropic",
@@ -420,6 +420,16 @@
   "latestModel": "Llama 3.3 Euryale 70B"
  },
  {
+  "key": "scaledown",
+  "name": "Scaledown",
+  "monogram": "SC",
+  "color": "#d3d345",
+  "blurb": "Models tracked from Scaledown.",
+  "modelCount": 2,
+  "latestRelease": "2026-10-13",
+  "latestModel": "Extract"
+ },
+ {
   "key": "thinkingmachines",
   "name": "Thinking Machines Lab",
   "monogram": "TM",
@@ -538,6 +548,16 @@
   "modelCount": 1,
   "latestRelease": "2026-08-18",
   "latestModel": "Qwen3.8-27B-DFlash2"
+ },
+ {
+  "key": "jialinyyzz",
+  "name": "Jialinyyzz",
+  "monogram": "JI",
+  "color": "#5645d3",
+  "blurb": "Models tracked from Jialinyyzz.",
+  "modelCount": 1,
+  "latestRelease": "2026-09-11",
+  "latestModel": "humanizer"
  },
  {
   "key": "lightonai",
