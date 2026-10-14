@@ -540,6 +540,16 @@
   "latestModel": "Ember-1"
  },
  {
+  "key": "ifm",
+  "name": "Ifm",
+  "monogram": "IF",
+  "color": "#45d36b",
+  "blurb": "Models tracked from Ifm.",
+  "modelCount": 1,
+  "latestRelease": "2026-09-01",
+  "latestModel": "K2-Horizon-7B"
+ },
+ {
   "key": "incoai",
   "name": "Incoai",
   "monogram": "IN",
