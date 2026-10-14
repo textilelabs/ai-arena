@@ -1726,6 +1726,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:IFM/K2-Horizon-7B",
+  "modelId": "hf:IFM/K2-Horizon-7B",
+  "title": "K2-Horizon-7B listed",
+  "provider": "Ifm",
+  "providerKey": "ifm",
+  "released": "2026-09-01",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "k2",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "K2-Horizon-7B is the medium dense member of the K2-Horizon family: a 7B-core decoder-only model with a 512K context window. The chart at the top of this card shows K2-Horizon-7B against selected reference models. The table below lists every comparison model used in the figure. Scores in %. Bold marks the best score in each row. BrowseComp: our model uses the Discard-all@95k context-length protocol proposed in the DeepSeek-V3.2 technical report; comparison models may use different harnesses. Small reasoning models occasionally fall into degenerate repetition (\"doom loops\") on long generations and keep generating until they hit the output limit. After post-training, the 3.7B and 7B models receive a short anti-doom-loop stage: Final Token Preference Optimization (FTPO), a LoRA preference update on pairs mined from the model's own looping outputs, merged back into the weights. Runaway genera",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/IFM/K2-Horizon-7B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:ibm-granite/granite-4.2-8b",
   "modelId": "or:ibm-granite/granite-4.2-8b",
   "title": "Granite 4.2 8B listed",
