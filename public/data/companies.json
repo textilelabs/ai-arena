@@ -60,6 +60,16 @@
   "latestModel": "Claude Haiku 5.5"
  },
  {
+  "key": "meta",
+  "name": "Meta",
+  "monogram": "M",
+  "color": "#0668e1",
+  "blurb": "Meta AI — open-weight Llama foundation models.",
+  "modelCount": 21,
+  "latestRelease": "2026-10-15",
+  "latestModel": "Muse Spark Open"
+ },
+ {
   "key": "zhipu",
   "name": "Zhipu AI",
   "monogram": "Z",
@@ -68,16 +78,6 @@
   "modelCount": 21,
   "latestRelease": "2026-09-23",
   "latestModel": "GLM 5.3 Prime"
- },
- {
-  "key": "meta",
-  "name": "Meta",
-  "monogram": "M",
-  "color": "#0668e1",
-  "blurb": "Meta AI — open-weight Llama foundation models.",
-  "modelCount": 20,
-  "latestRelease": "2026-10-12",
-  "latestModel": "Muse Wonder"
  },
  {
   "key": "inclusionai",
@@ -140,6 +140,16 @@
   "latestModel": "MiniMax M3"
  },
  {
+  "key": "nvidia",
+  "name": "NVIDIA",
+  "monogram": "NV",
+  "color": "#d39845",
+  "blurb": "Models tracked from NVIDIA.",
+  "modelCount": 7,
+  "latestRelease": "2026-10-15",
+  "latestModel": "Nemotron 3.5 Super VL"
+ },
+ {
   "key": "tencent",
   "name": "Tencent",
   "monogram": "T",
@@ -158,16 +168,6 @@
   "modelCount": 6,
   "latestRelease": "2026-09-23",
   "latestModel": "Aion 3.5"
- },
- {
-  "key": "nvidia",
-  "name": "NVIDIA",
-  "monogram": "NV",
-  "color": "#d39845",
-  "blurb": "Models tracked from NVIDIA.",
-  "modelCount": 6,
-  "latestRelease": "2026-09-21",
-  "latestModel": "Switchyard"
  },
  {
   "key": "perplexity",

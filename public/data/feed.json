@@ -1,5 +1,57 @@
 [
  {
+  "id": "feed-or:meta/muse-spark-open",
+  "modelId": "or:meta/muse-spark-open",
+  "title": "Muse Spark Open listed",
+  "provider": "Meta",
+  "providerKey": "meta",
+  "released": "2026-10-15",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "muse",
+  "tags": [
+   "Open Weights",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Muse Spark Open is a coding-optimized open-weight model. Trained specifically for agentic coding workflows, it delivers higher first-attempt accuracy, reliable tool calling, and deep codebase understanding across the repos developers...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/meta/muse-spark-open",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-or:nvidia/nemotron-3.5-super-vl",
+  "modelId": "or:nvidia/nemotron-3.5-super-vl",
+  "title": "Nemotron 3.5 Super VL listed",
+  "provider": "NVIDIA",
+  "providerKey": "nvidia",
+  "released": "2026-10-15",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "nemotron",
+  "tags": [
+   "Open Weights",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "NVIDIA Nemotron 3.5 Super VL is an open multimodal mixture-of-experts model from NVIDIA, with 12B active parameters out of 120B total. It takes text, images, documents, GUI screenshots, and video...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:scaledown/extract",
   "modelId": "or:scaledown/extract",
   "title": "Extract listed",
