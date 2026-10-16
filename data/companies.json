@@ -340,6 +340,16 @@
   "latestModel": "Schematron V2 Turbo"
  },
  {
+  "key": "moondream",
+  "name": "Moondream",
+  "monogram": "MO",
+  "color": "#4a45d3",
+  "blurb": "Models tracked from Moondream.",
+  "modelCount": 2,
+  "latestRelease": "2026-10-15",
+  "latestModel": "Moondream 3 Preview"
+ },
+ {
   "key": "morph",
   "name": "Morph",
   "monogram": "MO",
