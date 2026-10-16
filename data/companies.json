@@ -140,6 +140,16 @@
   "latestModel": "MiniMax M3"
  },
  {
+  "key": "tencent",
+  "name": "Tencent",
+  "monogram": "T",
+  "color": "#00a4f7",
+  "blurb": "Tencent Hunyuan model family.",
+  "modelCount": 8,
+  "latestRelease": "2026-10-15",
+  "latestModel": "Hy-Memory-30B-A3B"
+ },
+ {
   "key": "nvidia",
   "name": "NVIDIA",
   "monogram": "NV",
@@ -148,16 +158,6 @@
   "modelCount": 7,
   "latestRelease": "2026-10-15",
   "latestModel": "Nemotron 3.5 Super VL"
- },
- {
-  "key": "tencent",
-  "name": "Tencent",
-  "monogram": "T",
-  "color": "#00a4f7",
-  "blurb": "Tencent Hunyuan model family.",
-  "modelCount": 7,
-  "latestRelease": "2026-10-09",
-  "latestModel": "Youtu-Parsing-Omni"
  },
  {
   "key": "aion-labs",
