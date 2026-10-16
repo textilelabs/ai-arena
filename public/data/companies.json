@@ -660,6 +660,16 @@
   "latestModel": "Ternary Bonsai 2 27B"
  },
  {
+  "key": "reflection",
+  "name": "Reflection",
+  "monogram": "RE",
+  "color": "#4564d3",
+  "blurb": "Models tracked from Reflection.",
+  "modelCount": 1,
+  "latestRelease": "2026-10-16",
+  "latestModel": "Beam 1.0 501B A23B"
+ },
+ {
   "key": "trl-internal-testing",
   "name": "trl-internal-testing",
   "monogram": "TR",

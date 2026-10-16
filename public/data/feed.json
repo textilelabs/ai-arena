@@ -1,5 +1,30 @@
 [
  {
+  "id": "feed-or:reflection/beam-1.0-501b-a23b",
+  "modelId": "or:reflection/beam-1.0-501b-a23b",
+  "title": "Beam 1.0 501B A23B ships",
+  "provider": "Reflection",
+  "providerKey": "reflection",
+  "released": "2026-10-16",
+  "ultimateScore": 62.4,
+  "scoreStatus": "measured",
+  "measuredScore": 73.2,
+  "imputationReason": null,
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "beam",
+  "tags": [
+   "Open Weights",
+   "Long Context"
+  ],
+  "summary": "Beam 1.0 is Reflection's open-weight reasoning model for coding and long-horizon agentic workflows. It uses a sparse mixture-of-experts architecture with 501B total and 23B active parameters per token, and a...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/reflection/beam-1.0-501b-a23b",
+  "access": "Open",
+  "type": "Reasoning",
+  "benchmarkCount": 4
+ },
+ {
   "id": "feed-hf:tencent/Hy-Memory-30B-A3B",
   "modelId": "hf:tencent/Hy-Memory-30B-A3B",
   "title": "Hy-Memory-30B-A3B listed",
