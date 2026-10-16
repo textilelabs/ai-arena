@@ -1,5 +1,29 @@
 [
  {
+  "id": "feed-hf:tencent/Hy-Memory-30B-A3B",
+  "modelId": "hf:tencent/Hy-Memory-30B-A3B",
+  "title": "Hy-Memory-30B-A3B listed",
+  "provider": "Tencent",
+  "providerKey": "tencent",
+  "released": "2026-10-15",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "hy",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Hy-Memory-30B-A3B is a compact long-term-memory writer model (~3B active parameters) developed by Tencent Hunyuan to execute the write path inside external memory frameworks. It directly replaces the general-purpose LLM inside Mem0, MemOS, and Hy-Memory (covering Chat, Working, and Coding scenarios), deciding what information to retain, how precisely to represent it, and how new evidence should update the persistent memory bank. The model is trained in two stages—Memory On-Policy Distillation (OPD) followed by Attributed Memory Reinforcement Learning—and transfers directly to unseen memory frameworks such as EverMemOS.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:moondream/moondream3-preview",
   "modelId": "or:moondream/moondream3-preview",
   "title": "Moondream 3 Preview listed",
