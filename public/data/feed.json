@@ -1,5 +1,55 @@
 [
  {
+  "id": "feed-or:moondream/moondream3-preview",
+  "modelId": "or:moondream/moondream3-preview",
+  "title": "Moondream 3 Preview listed",
+  "provider": "Moondream",
+  "providerKey": "moondream",
+  "released": "2026-10-15",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "moondream",
+  "tags": [
+   "Open Weights",
+   "Multimodal"
+  ],
+  "summary": "Moondream 3 Preview is a vision-language model from Moondream with 9B total parameters and 2B active (mixture-of-experts). It handles visual question answering, captioning, OCR, and visual reasoning over images, with...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/moondream/moondream3-preview",
+  "access": "Open",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-or:moondream/moondream3.1-9b-a2b",
+  "modelId": "or:moondream/moondream3.1-9b-a2b",
+  "title": "Moondream 3.1 listed",
+  "provider": "Moondream",
+  "providerKey": "moondream",
+  "released": "2026-10-15",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "moondream",
+  "tags": [
+   "Open Weights",
+   "Multimodal"
+  ],
+  "summary": "Moondream 3.1 is a vision-language model from Moondream, the successor to Moondream 3 Preview, with 9B total parameters and 2B active (mixture-of-experts). It handles visual question answering, captioning, OCR, and...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/moondream/moondream3.1-9b-a2b",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:meta/muse-spark-open",
   "modelId": "or:meta/muse-spark-open",
   "title": "Muse Spark Open listed",
