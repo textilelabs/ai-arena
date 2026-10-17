@@ -35,9 +35,9 @@
   "monogram": "D",
   "color": "#4d6bfe",
   "blurb": "Chinese lab behind DeepSeek V/R reasoning models.",
-  "modelCount": 25,
-  "latestRelease": "2026-09-14",
-  "latestModel": "DeepSeek Flash Latest"
+  "modelCount": 26,
+  "latestRelease": "2026-10-17",
+  "latestModel": "DeepSeek V4.1 Flash 1017"
  },
  {
   "key": "mistral",
@@ -538,6 +538,16 @@
   "modelCount": 1,
   "latestRelease": "2026-09-08",
   "latestModel": "Edge0-35B-A3B-preview"
+ },
+ {
+  "key": "elorian",
+  "name": "Elorian",
+  "monogram": "EL",
+  "color": "#454fd3",
+  "blurb": "Models tracked from Elorian.",
+  "modelCount": 1,
+  "latestRelease": "2026-10-17",
+  "latestModel": "Glimpse"
  },
  {
   "key": "fireworks",

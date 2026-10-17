@@ -1,5 +1,57 @@
 [
  {
+  "id": "feed-or:deepseek/deepseek-v4.1-flash-1017",
+  "modelId": "or:deepseek/deepseek-v4.1-flash-1017",
+  "title": "DeepSeek V4.1 Flash 1017 listed",
+  "provider": "DeepSeek",
+  "providerKey": "deepseek",
+  "released": "2026-10-17",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "deepseek",
+  "tags": [
+   "Open Weights",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the deepseek-flash API model name. V4.1 Flash is a sparse mixture-of-experts model...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-or:elorian/glimpse",
+  "modelId": "or:elorian/glimpse",
+  "title": "Glimpse listed",
+  "provider": "Elorian",
+  "providerKey": "elorian",
+  "released": "2026-10-17",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "glimpse",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Glimpse is a multimodal visual reasoning model from Elorian, built for visual understanding and complex visual reasoning in the physical world. It reasons directly over images and video rather than...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/elorian/glimpse",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:reflection/beam-1.0-501b-a23b",
   "modelId": "or:reflection/beam-1.0-501b-a23b",
   "title": "Beam 1.0 501B A23B ships",
