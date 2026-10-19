@@ -120,6 +120,16 @@
   "latestModel": "Kimi K3"
  },
  {
+  "key": "nvidia",
+  "name": "NVIDIA",
+  "monogram": "NV",
+  "color": "#d39845",
+  "blurb": "Models tracked from NVIDIA.",
+  "modelCount": 9,
+  "latestRelease": "2026-10-15",
+  "latestModel": "Nemotron 3.5 Super VL"
+ },
+ {
   "key": "amazon",
   "name": "Amazon",
   "monogram": "AZ",
@@ -148,16 +158,6 @@
   "modelCount": 8,
   "latestRelease": "2026-10-15",
   "latestModel": "Hy-Memory-30B-A3B"
- },
- {
-  "key": "nvidia",
-  "name": "NVIDIA",
-  "monogram": "NV",
-  "color": "#d39845",
-  "blurb": "Models tracked from NVIDIA.",
-  "modelCount": 7,
-  "latestRelease": "2026-10-15",
-  "latestModel": "Nemotron 3.5 Super VL"
  },
  {
   "key": "aion-labs",
