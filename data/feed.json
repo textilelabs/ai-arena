@@ -77,6 +77,31 @@
   "benchmarkCount": 4
  },
  {
+  "id": "feed-or:inception/mercury-3",
+  "modelId": "or:inception/mercury-3",
+  "title": "Mercury 3 listed",
+  "provider": "Inception",
+  "providerKey": "inception",
+  "released": "2026-10-16",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "mercury",
+  "tags": [
+   "Proprietary",
+   "Long Context"
+  ],
+  "summary": "Mercury 3 is a diffusion-based language model from Inception, and the lab's most capable model to date. It is suited for agentic workflows and real-time applications where latency compounds, such...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/inception/mercury-3",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:tencent/Hy-Memory-30B-A3B",
   "modelId": "hf:tencent/Hy-Memory-30B-A3B",
   "title": "Hy-Memory-30B-A3B listed",

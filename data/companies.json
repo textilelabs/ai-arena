@@ -260,6 +260,16 @@
   "latestModel": "Granite 4.2 8B"
  },
  {
+  "key": "inception",
+  "name": "Inception",
+  "monogram": "IN",
+  "color": "#45bed3",
+  "blurb": "Models tracked from Inception.",
+  "modelCount": 3,
+  "latestRelease": "2026-10-16",
+  "latestModel": "Mercury 3"
+ },
+ {
   "key": "stealth",
   "name": "Stealth",
   "monogram": "ST",
@@ -318,16 +328,6 @@
   "modelCount": 2,
   "latestRelease": "2026-09-16",
   "latestModel": "needle3"
- },
- {
-  "key": "inception",
-  "name": "Inception",
-  "monogram": "IN",
-  "color": "#45bed3",
-  "blurb": "Models tracked from Inception.",
-  "modelCount": 2,
-  "latestRelease": "2026-08-31",
-  "latestModel": "Mercury 2.5 Preview"
  },
  {
   "key": "inference-net",
