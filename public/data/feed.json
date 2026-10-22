@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:minimax/minimax-m3.1-flash",
+  "modelId": "or:minimax/minimax-m3.1-flash",
+  "title": "MiniMax M3.1 Flash listed",
+  "provider": "MiniMax",
+  "providerKey": "minimax",
+  "released": "2026-10-19",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "minimax",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "MiniMax-M3.1-Flash is a multimodal model from MiniMax. Compared with M3, it delivers significant improvements across multiple benchmarks, particularly in complex agentic tasks, coding, and cybersecurity. It is built for complex,...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/minimax/minimax-m3.1-flash",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:deepseek/deepseek-v4.1-flash-1017",
   "modelId": "or:deepseek/deepseek-v4.1-flash-1017",
   "title": "DeepSeek V4.1 Flash 1017 listed",

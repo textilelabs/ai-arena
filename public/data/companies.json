@@ -110,6 +110,16 @@
   "latestModel": "Grok 4.7"
  },
  {
+  "key": "minimax",
+  "name": "MiniMax",
+  "monogram": "X",
+  "color": "#e64980",
+  "blurb": "Chinese lab behind the MiniMax-01 and M-series models.",
+  "modelCount": 9,
+  "latestRelease": "2026-10-19",
+  "latestModel": "MiniMax M3.1 Flash"
+ },
+ {
   "key": "moonshot",
   "name": "Moonshot AI",
   "monogram": "K",
@@ -138,16 +148,6 @@
   "modelCount": 8,
   "latestRelease": "2026-10-02",
   "latestModel": "ALoDLM-8B"
- },
- {
-  "key": "minimax",
-  "name": "MiniMax",
-  "monogram": "X",
-  "color": "#e64980",
-  "blurb": "Chinese lab behind the MiniMax-01 and M-series models.",
-  "modelCount": 8,
-  "latestRelease": "2026-06-01",
-  "latestModel": "MiniMax M3"
  },
  {
   "key": "tencent",
