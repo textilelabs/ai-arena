@@ -100,6 +100,26 @@
   "latestModel": "Seed 2.1 Turbo"
  },
  {
+  "key": "moonshot",
+  "name": "Moonshot AI",
+  "monogram": "K",
+  "color": "#16181d",
+  "blurb": "Builder of the Kimi long-context models.",
+  "modelCount": 10,
+  "latestRelease": "2026-10-23",
+  "latestModel": "Kimi K3.1 Pro"
+ },
+ {
+  "key": "nvidia",
+  "name": "NVIDIA",
+  "monogram": "NV",
+  "color": "#d39845",
+  "blurb": "Models tracked from NVIDIA.",
+  "modelCount": 10,
+  "latestRelease": "2026-10-15",
+  "latestModel": "Nemotron 3.5 Super VL"
+ },
+ {
   "key": "xai",
   "name": "xAI",
   "monogram": "X",
@@ -118,26 +138,6 @@
   "modelCount": 9,
   "latestRelease": "2026-10-19",
   "latestModel": "MiniMax M3.1 Flash"
- },
- {
-  "key": "moonshot",
-  "name": "Moonshot AI",
-  "monogram": "K",
-  "color": "#16181d",
-  "blurb": "Builder of the Kimi long-context models.",
-  "modelCount": 9,
-  "latestRelease": "2026-07-16",
-  "latestModel": "Kimi K3"
- },
- {
-  "key": "nvidia",
-  "name": "NVIDIA",
-  "monogram": "NV",
-  "color": "#d39845",
-  "blurb": "Models tracked from NVIDIA.",
-  "modelCount": 9,
-  "latestRelease": "2026-10-15",
-  "latestModel": "Nemotron 3.5 Super VL"
  },
  {
   "key": "amazon",
