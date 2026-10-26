@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:openai/gpt-6.1-terra",
+  "modelId": "or:openai/gpt-6.1-terra",
+  "title": "GPT-6.1 Terra listed",
+  "provider": "OpenAI",
+  "providerKey": "openai",
+  "released": "2026-10-26",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "gpt",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "GPT-6.1 Terra is the mid-tier model in OpenAI's GPT-6.1 series, priced below GPT-6.1 Sol. It is suited for everyday agentic, coding, and writing work, is particularly strong at understanding screenshots...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/openai/gpt-6.1-terra",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:moonshotai/kimi-k3.1-pro",
   "modelId": "or:moonshotai/kimi-k3.1-pro",
   "title": "Kimi K3.1 Pro listed",
