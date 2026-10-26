@@ -154,6 +154,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:ornith-ai/Ornith-1.5-122B",
+  "modelId": "hf:ornith-ai/Ornith-1.5-122B",
+  "title": "Ornith-1.5-122B listed",
+  "provider": "Ornith Ai",
+  "providerKey": "ornith-ai",
+  "released": "2026-10-16",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ornith",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement. Ornith-1.5 extends Ornith-1.0 (which was developed on top of Qwen3.5 and Gemma4 with additional continued pretraining, mid-training, and post-training) by expanding the self-improvement loop from scaffold and rollout optimization to jointly optimizing task generation, scaffold construction, and solution rollouts. Rather than relying on a fixed set of human-curated tasks and manually designed harnesses, Ornith-1.5 continuously generates new training tasks, discovers effective strategies for solving them, and improves the policy through reinforcement learning. For more details on the task, harness, and rollout reward design, please refer to our blog.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/ornith-ai/Ornith-1.5-122B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:tencent/Hy-Memory-30B-A3B",
   "modelId": "hf:tencent/Hy-Memory-30B-A3B",
   "title": "Hy-Memory-30B-A3B listed",
