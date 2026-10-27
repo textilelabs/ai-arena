@@ -410,6 +410,16 @@
   "latestModel": "Laguna S 2.1"
  },
  {
+  "key": "prism-ml",
+  "name": "Prism Ml",
+  "monogram": "PR",
+  "color": "#45c3d3",
+  "blurb": "Models tracked from Prism Ml.",
+  "modelCount": 2,
+  "latestRelease": "2026-10-16",
+  "latestModel": "Ternary Bonsai 2 9B"
+ },
+ {
   "key": "rekaai",
   "name": "Rekaai",
   "monogram": "RE",
@@ -658,16 +668,6 @@
   "modelCount": 1,
   "latestRelease": "2026-08-24",
   "latestModel": "phonellm-alpha-1"
- },
- {
-  "key": "prism-ml",
-  "name": "Prism Ml",
-  "monogram": "PR",
-  "color": "#45c3d3",
-  "blurb": "Models tracked from Prism Ml.",
-  "modelCount": 1,
-  "latestRelease": "2026-09-18",
-  "latestModel": "Ternary Bonsai 2 27B"
  },
  {
   "key": "reflection",
