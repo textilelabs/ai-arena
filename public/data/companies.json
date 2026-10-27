@@ -85,9 +85,9 @@
   "monogram": "IN",
   "color": "#45d362",
   "blurb": "Models tracked from InclusionAI.",
-  "modelCount": 15,
-  "latestRelease": "2026-10-02",
-  "latestModel": "Ling 3.1 Flash"
+  "modelCount": 16,
+  "latestRelease": "2026-10-27",
+  "latestModel": "Ling-3.1-flash-1019"
  },
  {
   "key": "bytedance",

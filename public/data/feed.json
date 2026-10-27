@@ -1,5 +1,29 @@
 [
  {
+  "id": "feed-hf:inclusionAI/Ling-3.1-flash-1019",
+  "modelId": "hf:inclusionAI/Ling-3.1-flash-1019",
+  "title": "Ling-3.1-flash-1019 listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2026-10-27",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ling",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "We introduce Ling-3.1-flash-1019, an upgraded version of Ling-3.1-flash, with 560B total parameters, 25B active parameters per token, and a 1M-token context window. With further post-training optimizations, Ling-3.1-flash-1019 demonstrates significant improvements in reasoning and real-world agentic capabilities. Its AA-Briefcase score rises from approximately 1400 to 1524 Elo, while performance on AutomationBench-AA increases from 62% to 68%. The model also makes gains on scientific benchmarks, including CritPt (18% → 26%) and SciCode (54% → 57%). Overall, it scores 44 on the Artificial Analysis Intelligence Index v4.3.2, up from 41 for its predecessor. These gains highlight the model's improved capabilities in complex reasoning, multi-step task execution, and agentic workflows across diverse real-world scenarios.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.1-flash-1019",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:openai/gpt-6.1-terra",
   "modelId": "or:openai/gpt-6.1-terra",
   "title": "GPT-6.1 Terra listed",
