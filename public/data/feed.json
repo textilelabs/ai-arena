@@ -52,6 +52,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:tencent/Hy-SimulMT-30B-A3B",
+  "modelId": "hf:tencent/Hy-SimulMT-30B-A3B",
+  "title": "Hy-SimulMT-30B-A3B listed",
+  "provider": "Tencent",
+  "providerKey": "tencent",
+  "released": "2026-10-22",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "hy",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Hy-SimulMT is a real-time simultaneous translation model developed by Tencent Hunyuan, supporting bidirectional speech-to-speech translation between Chinese and English. It continuously receives incoming audio and translates as the speaker talks, producing both translated text and speech. With real-time voice cloning, it preserves the speaker's vocal characteristics while conveying the message accurately. Designed for live communication settings such as meetings, speeches, and interviews, Hy-SimulMT aims to convey information accurately while reducing the disruption that waiting introduces into a conversation. To evaluate this balance between translation quality and response speed, we combine public benchmarks, real-world audio, and comparisons with professional simultaneous interpreters.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:minimax/minimax-m3.1-flash",
   "modelId": "or:minimax/minimax-m3.1-flash",
   "title": "MiniMax M3.1 Flash listed",

@@ -120,6 +120,16 @@
   "latestModel": "Nemotron 3.5 Super VL"
  },
  {
+  "key": "tencent",
+  "name": "Tencent",
+  "monogram": "T",
+  "color": "#00a4f7",
+  "blurb": "Tencent Hunyuan model family.",
+  "modelCount": 10,
+  "latestRelease": "2026-10-22",
+  "latestModel": "Hy-SimulMT-30B-A3B"
+ },
+ {
   "key": "xai",
   "name": "xAI",
   "monogram": "X",
@@ -138,16 +148,6 @@
   "modelCount": 9,
   "latestRelease": "2026-10-19",
   "latestModel": "MiniMax M3.1 Flash"
- },
- {
-  "key": "tencent",
-  "name": "Tencent",
-  "monogram": "T",
-  "color": "#00a4f7",
-  "blurb": "Tencent Hunyuan model family.",
-  "modelCount": 9,
-  "latestRelease": "2026-10-15",
-  "latestModel": "Hy-Memory-30B-A3B"
  },
  {
   "key": "amazon",
