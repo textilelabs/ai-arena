@@ -7077,6 +7077,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:tencent/Youtu-LLM-A7B-Base",
+  "modelId": "hf:tencent/Youtu-LLM-A7B-Base",
+  "title": "Youtu-LLM-A7B-Base ships",
+  "provider": "Tencent",
+  "providerKey": "tencent",
+  "released": "2026-01-05",
+  "ultimateScore": 46.4,
+  "scoreStatus": "measured",
+  "measuredScore": 61.9,
+  "imputationReason": null,
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "youtu",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Youtu-LLM-A7B-Base is a pre-trained checkpoint of a vision-language Mixture-of-Experts model with about 120B total parameters and ~7B activated parameters per token. Install transformers==5.12.1, plus torch, accelerate and pillow for images.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/tencent/Youtu-LLM-A7B-Base",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 4
+ },
+ {
   "id": "feed-or:minimax/minimax-m2.1",
   "modelId": "or:minimax/minimax-m2.1",
   "title": "MiniMax M2.1 ships",

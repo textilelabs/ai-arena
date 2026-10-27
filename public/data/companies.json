@@ -140,6 +140,16 @@
   "latestModel": "MiniMax M3.1 Flash"
  },
  {
+  "key": "tencent",
+  "name": "Tencent",
+  "monogram": "T",
+  "color": "#00a4f7",
+  "blurb": "Tencent Hunyuan model family.",
+  "modelCount": 9,
+  "latestRelease": "2026-10-15",
+  "latestModel": "Hy-Memory-30B-A3B"
+ },
+ {
   "key": "amazon",
   "name": "Amazon",
   "monogram": "AZ",
@@ -148,16 +158,6 @@
   "modelCount": 8,
   "latestRelease": "2026-10-02",
   "latestModel": "ALoDLM-8B"
- },
- {
-  "key": "tencent",
-  "name": "Tencent",
-  "monogram": "T",
-  "color": "#00a4f7",
-  "blurb": "Tencent Hunyuan model family.",
-  "modelCount": 8,
-  "latestRelease": "2026-10-15",
-  "latestModel": "Hy-Memory-30B-A3B"
  },
  {
   "key": "aion-labs",
