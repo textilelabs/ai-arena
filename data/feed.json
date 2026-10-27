@@ -252,6 +252,32 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-or:prism-ml/ternary-bonsai-2-9b",
+  "modelId": "or:prism-ml/ternary-bonsai-2-9b",
+  "title": "Ternary Bonsai 2 9B listed",
+  "provider": "Prism Ml",
+  "providerKey": "prism-ml",
+  "released": "2026-10-16",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ternary",
+  "tags": [
+   "Open Weights",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Ternary Bonsai 2 9B is PrismML’s compact, open-weight language model for conversational AI, reasoning, and tool use. Built on Qwen3.5, it uses ternary weights packed into 2 bits for efficient...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/prism-ml/ternary-bonsai-2-9b",
+  "access": "Open",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:tencent/Hy-Memory-30B-A3B",
   "modelId": "hf:tencent/Hy-Memory-30B-A3B",
   "title": "Hy-Memory-30B-A3B listed",
