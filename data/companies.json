@@ -670,6 +670,16 @@
   "latestModel": "MOSS-Transcribe-Diarize"
  },
  {
+  "key": "particle-ai",
+  "name": "Particle Ai",
+  "monogram": "PA",
+  "color": "#d345a6",
+  "blurb": "Models tracked from Particle Ai.",
+  "modelCount": 1,
+  "latestRelease": "2026-10-28",
+  "latestModel": "Particle-1"
+ },
+ {
   "key": "pipecat-ai",
   "name": "Pipecat Ai",
   "monogram": "PI",
