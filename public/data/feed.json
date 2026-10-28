@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:particle-ai/particle-1",
+  "modelId": "or:particle-ai/particle-1",
+  "title": "Particle-1 listed",
+  "provider": "Particle Ai",
+  "providerKey": "particle-ai",
+  "released": "2026-10-28",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "particle",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Particle-1 is a token-efficient agentic coding model from Particle AI, post-trained on DeepSeek V4.1 Flash. It is suited for software engineering work such as terminal workflows, codebase changes, and data...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/particle-ai/particle-1",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:inclusionAI/Ling-3.1-flash-1019",
   "modelId": "hf:inclusionAI/Ling-3.1-flash-1019",
   "title": "Ling-3.1-flash-1019 listed",
