@@ -640,6 +640,16 @@
   "latestModel": "LongCat-2.0"
  },
  {
+  "key": "memtensor",
+  "name": "Memtensor",
+  "monogram": "ME",
+  "color": "#96d345",
+  "blurb": "Models tracked from Memtensor.",
+  "modelCount": 1,
+  "latestRelease": "2026-10-15",
+  "latestModel": "MemT-1.0-Nano"
+ },
+ {
   "key": "nanbeige",
   "name": "Nanbeige",
   "monogram": "NA",

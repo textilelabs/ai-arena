@@ -404,6 +404,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:MemTensor/MemT-1.0-Nano",
+  "modelId": "hf:MemTensor/MemT-1.0-Nano",
+  "title": "MemT-1.0-Nano listed",
+  "provider": "Memtensor",
+  "providerKey": "memtensor",
+  "released": "2026-10-15",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "memt",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "MemT-1.0 is a new generation of memory foundation models that makes persistent, dynamically evolving memory an intrinsic part of model computation. MemT-1.0 integrates dynamic local memory and trainable hyper memory to retain and leverage historical information without accessing original context at inference. Its persistent state remains constant in size, reducing storage by approximately 66× versus full-context KV cache at 128K history length. The project makes three main contributions: A Native Memory Block runs alongside the backbone attention and contains two components:",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/MemTensor/MemT-1.0-Nano",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:scaledown/extract",
   "modelId": "or:scaledown/extract",
   "title": "Extract listed",
