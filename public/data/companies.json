@@ -350,6 +350,16 @@
   "latestModel": "Schematron V2 Turbo"
  },
  {
+  "key": "memtensor",
+  "name": "Memtensor",
+  "monogram": "ME",
+  "color": "#96d345",
+  "blurb": "Models tracked from Memtensor.",
+  "modelCount": 2,
+  "latestRelease": "2026-10-17",
+  "latestModel": "MemT-1.0-Flash"
+ },
+ {
   "key": "moondream",
   "name": "Moondream",
   "monogram": "MO",
@@ -638,16 +648,6 @@
   "modelCount": 1,
   "latestRelease": "2026-06-29",
   "latestModel": "LongCat-2.0"
- },
- {
-  "key": "memtensor",
-  "name": "Memtensor",
-  "monogram": "ME",
-  "color": "#96d345",
-  "blurb": "Models tracked from Memtensor.",
-  "modelCount": 1,
-  "latestRelease": "2026-10-15",
-  "latestModel": "MemT-1.0-Nano"
  },
  {
   "key": "nanbeige",
