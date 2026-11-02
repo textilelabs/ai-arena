@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:z-ai/glm-5.3-flashx-legal",
+  "modelId": "or:z-ai/glm-5.3-flashx-legal",
+  "title": "GLM 5.3 FlashX Legal listed",
+  "provider": "Zhipu AI",
+  "providerKey": "zhipu",
+  "released": "2026-11-02",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "glm",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "GLM-5.3-FlashX-Legal (GLM-Legal) is Z.ai's legal-domain variant of GLM-5.3-FlashX, a native multimodal model that accepts text, image, and video input and produces text. It adds legal-domain mid-training and post-training with reinforcement...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/z-ai/glm-5.3-flashx-legal",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:particle-ai/particle-1",
   "modelId": "or:particle-ai/particle-1",
   "title": "Particle-1 listed",
