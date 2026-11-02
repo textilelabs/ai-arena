@@ -60,6 +60,16 @@
   "latestModel": "Claude Haiku 5.5"
  },
  {
+  "key": "zhipu",
+  "name": "Zhipu AI",
+  "monogram": "Z",
+  "color": "#3b5bdb",
+  "blurb": "Chinese lab behind the GLM model family.",
+  "modelCount": 22,
+  "latestRelease": "2026-11-02",
+  "latestModel": "GLM 5.3 FlashX Legal"
+ },
+ {
   "key": "meta",
   "name": "Meta",
   "monogram": "M",
@@ -68,16 +78,6 @@
   "modelCount": 21,
   "latestRelease": "2026-10-15",
   "latestModel": "Muse Spark Open"
- },
- {
-  "key": "zhipu",
-  "name": "Zhipu AI",
-  "monogram": "Z",
-  "color": "#3b5bdb",
-  "blurb": "Chinese lab behind the GLM model family.",
-  "modelCount": 21,
-  "latestRelease": "2026-09-23",
-  "latestModel": "GLM 5.3 Prime"
  },
  {
   "key": "inclusionai",
