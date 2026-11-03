@@ -240,6 +240,16 @@
   "latestModel": "Fugu Max"
  },
  {
+  "key": "stealth",
+  "name": "Stealth",
+  "monogram": "ST",
+  "color": "#45c3d3",
+  "blurb": "Models tracked from Stealth.",
+  "modelCount": 4,
+  "latestRelease": "2026-11-03",
+  "latestModel": "Crouton Alpha"
+ },
+ {
   "key": "thedrummer",
   "name": "Thedrummer",
   "monogram": "TH",
@@ -278,16 +288,6 @@
   "modelCount": 3,
   "latestRelease": "2026-10-16",
   "latestModel": "Ornith-1.5-122B"
- },
- {
-  "key": "stealth",
-  "name": "Stealth",
-  "monogram": "ST",
-  "color": "#45c3d3",
-  "blurb": "Models tracked from Stealth.",
-  "modelCount": 3,
-  "latestRelease": "2026-09-23",
-  "latestModel": "Space Bunny Alpha"
  },
  {
   "key": "stepfun",
