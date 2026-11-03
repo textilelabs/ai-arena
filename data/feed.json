@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:stealth/crouton-alpha",
+  "modelId": "or:stealth/crouton-alpha",
+  "title": "Crouton Alpha listed",
+  "provider": "Stealth",
+  "providerKey": "stealth",
+  "released": "2026-11-03",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "crouton",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Crouton Alpha is a lightweight model built for scalable coding, agentic, and multimodal workflows. It's ideal for executing agentic sub-tasks, tool use, and document analysis in high-volume, repeated work. Developers...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/stealth/crouton-alpha",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:z-ai/glm-5.3-flashx-legal",
   "modelId": "or:z-ai/glm-5.3-flashx-legal",
   "title": "GLM 5.3 FlashX Legal listed",
