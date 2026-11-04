@@ -700,6 +700,16 @@
   "latestModel": "Beam 1.0 501B A23B"
  },
  {
+  "key": "ricursiveai",
+  "name": "Ricursiveai",
+  "monogram": "RI",
+  "color": "#455dd3",
+  "blurb": "Models tracked from Ricursiveai.",
+  "modelCount": 1,
+  "latestRelease": "2026-11-04",
+  "latestModel": "ricursiveAI/Ripple-65B-Preview"
+ },
+ {
   "key": "trl-internal-testing",
   "name": "trl-internal-testing",
   "monogram": "TR",
