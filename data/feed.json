@@ -1,5 +1,29 @@
 [
  {
+  "id": "feed-or:ricursiveai/ripple-65b-preview",
+  "modelId": "or:ricursiveai/ripple-65b-preview",
+  "title": "ricursiveAI/Ripple-65B-Preview listed",
+  "provider": "Ricursiveai",
+  "providerKey": "ricursiveai",
+  "released": "2026-11-04",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ricursiveai/ripple",
+  "tags": [
+   "Proprietary"
+  ],
+  "summary": "Ripple-65B-Preview by ricursiveAI, a 65B model with native tool calling, served in BF16.",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/ricursiveai/ripple-65b-preview",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:stealth/crouton-alpha",
   "modelId": "or:stealth/crouton-alpha",
   "title": "Crouton Alpha listed",
