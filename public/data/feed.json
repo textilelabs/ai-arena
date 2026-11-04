@@ -154,6 +154,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:LiquidAI/LFM3-1.7B",
+  "modelId": "hf:LiquidAI/LFM3-1.7B",
+  "title": "LFM3-1.7B listed",
+  "provider": "Liquidai",
+  "providerKey": "liquidai",
+  "released": "2026-10-23",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "lfm3",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "src=\"https://huggingface.co/LiquidAI/LFM3-1.7B/resolve/main/assets/liquid-ai-banner.webp\" style=\"width: 100%; max-width: 100%; height: auto; display: block; margin: 0;\" LFM3-1.7B is a text model for local agents and specialized applications, based on our new tri-hybrid architecture. Find more information about the LFM3 family in our release blog post. The LFM3 family includes base, text, vision, audio, omni, and decision models. LFM3-1.7B is designed for local agents, tool calling, structured outputs, and domain-specific fine-tuning. Use retrieval or search for knowledge-heavy tasks. It is not recommended for agentic coding or complex multi-step reasoning due to its small size.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:tencent/Hy-SimulMT-30B-A3B",
   "modelId": "hf:tencent/Hy-SimulMT-30B-A3B",
   "title": "Hy-SimulMT-30B-A3B listed",
