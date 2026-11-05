@@ -330,6 +330,16 @@
   "latestModel": "Trinity Large Thinking"
  },
  {
+  "key": "baidu",
+  "name": "Baidu",
+  "monogram": "BA",
+  "color": "#c3d345",
+  "blurb": "Models tracked from Baidu.",
+  "modelCount": 2,
+  "latestRelease": "2026-10-21",
+  "latestModel": "ERNIE-5.5-Flash-Base"
+ },
+ {
   "key": "cactus-compute",
   "name": "Cactus Compute",
   "monogram": "CA",
@@ -528,16 +538,6 @@
   "modelCount": 1,
   "latestRelease": "2026-09-23",
   "latestModel": "JEV-9B"
- },
- {
-  "key": "baidu",
-  "name": "Baidu",
-  "monogram": "BA",
-  "color": "#c3d345",
-  "blurb": "Models tracked from Baidu.",
-  "modelCount": 1,
-  "latestRelease": "2025-06-30",
-  "latestModel": "ERNIE 4.5 VL 424B A47B"
  },
  {
   "key": "cognitivecomputations",
