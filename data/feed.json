@@ -1,5 +1,55 @@
 [
  {
+  "id": "feed-or:google/gemini-omni-1.2-flash",
+  "modelId": "or:google/gemini-omni-1.2-flash",
+  "title": "Gemini Omni 1.2 Flash listed",
+  "provider": "Google",
+  "providerKey": "google",
+  "released": "2026-11-05",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "gemini",
+  "tags": [
+   "Proprietary",
+   "Multimodal"
+  ],
+  "summary": "Gemini Omni 1.2 Flash is Google's native multimodal video generation and editing model, the successor to Gemini Omni 1.1 Flash. It generates clips up to 15 seconds long with native...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/google/gemini-omni-1.2-flash",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-or:google/gemini-omni-1.1-flash",
+  "modelId": "or:google/gemini-omni-1.1-flash",
+  "title": "Gemini Omni 1.1 Flash listed",
+  "provider": "Google",
+  "providerKey": "google",
+  "released": "2026-11-04",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "gemini",
+  "tags": [
+   "Proprietary",
+   "Multimodal"
+  ],
+  "summary": "Gemini Omni 1.1 Flash is Google's native multimodal video generation and editing model, the generally available successor to Gemini Omni Flash Preview. It is suited for text-to-video, image-to-video, first and...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/google/gemini-omni-1.1-flash",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:ricursiveai/ripple-65b-preview",
   "modelId": "or:ricursiveai/ripple-65b-preview",
   "title": "ricursiveAI/Ripple-65B-Preview listed",
