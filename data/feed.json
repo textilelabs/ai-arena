@@ -226,6 +226,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:baidu/ERNIE-5.5-Flash-Base",
+  "modelId": "hf:baidu/ERNIE-5.5-Flash-Base",
+  "title": "ERNIE-5.5-Flash-Base ships",
+  "provider": "Baidu",
+  "providerKey": "baidu",
+  "released": "2026-10-21",
+  "ultimateScore": 52.1,
+  "scoreStatus": "measured",
+  "measuredScore": 67.6,
+  "imputationReason": null,
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ernie",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "ERNIE 5.5 Flash is an efficient sparse Mixture-of-Experts (MoE) language model with 280B total parameters and 14B activated per token, pre-trained from scratch on 33.5T tokens with a training context of up to 128K; fine-tuning and inference support a 1M-token context. Different domains, reasoning tasks and agentic applications call for different data, training objectives and behavioral policies; by releasing the weights at the end of pre-training, we let developers build on the model's general capabilities and choose for themselves where to take it next. Because further training and agentic use keep adding to compute and memory cost, we made efficiency a key design goal from the start, revisiting each component, from attention and residual connections to the MoE layers and the output head, and treating activated compute, KV cache and long-context cost as part of one overall design. The s",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 4
+ },
+ {
   "id": "feed-or:minimax/minimax-m3.1-flash",
   "modelId": "or:minimax/minimax-m3.1-flash",
   "title": "MiniMax M3.1 Flash listed",
