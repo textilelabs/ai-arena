@@ -280,6 +280,16 @@
   "latestModel": "Mercury 3"
  },
  {
+  "key": "nous",
+  "name": "Nous Research",
+  "monogram": "N",
+  "color": "#a855f7",
+  "blurb": "Independent open-weights research lab.",
+  "modelCount": 3,
+  "latestRelease": "2026-11-06",
+  "latestModel": "Arete-27B"
+ },
+ {
   "key": "ornith-ai",
   "name": "Ornith Ai",
   "monogram": "OR",
@@ -398,16 +408,6 @@
   "modelCount": 2,
   "latestRelease": "2025-07-07",
   "latestModel": "Morph V3 Fast"
- },
- {
-  "key": "nous",
-  "name": "Nous Research",
-  "monogram": "N",
-  "color": "#a855f7",
-  "blurb": "Independent open-weights research lab.",
-  "modelCount": 2,
-  "latestRelease": "2025-08-26",
-  "latestModel": "Hermes 4 405B"
  },
  {
   "key": "openbmb",

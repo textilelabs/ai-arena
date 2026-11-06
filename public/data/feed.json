@@ -1,5 +1,29 @@
 [
  {
+  "id": "feed-hf:NousResearch/Arete-27B",
+  "modelId": "hf:NousResearch/Arete-27B",
+  "title": "Arete-27B listed",
+  "provider": "Nous Research",
+  "providerKey": "nous",
+  "released": "2026-11-06",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "arete",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B. Open source models give labs the raw tools to mold intelligence to varied preferences. The values a model ships with should not be the only values its users get to choose from. We observed firsthand refusals, deflections, and CCP-framed answers on politically sensitive topics in Qwen3.8-27B, and post-trained to alter those biases. On our evaluation, Arete-27B raised its fact score from 2.32 to 2.98 out of 5 and cut answers containing propaganda from 22% to 0.9%. The improvement held in all seven value categories, without a meaningful regression on the general-capability and agentic benchmarks we ran.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/NousResearch/Arete-27B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:google/gemini-omni-1.2-flash",
   "modelId": "or:google/gemini-omni-1.2-flash",
   "title": "Gemini Omni 1.2 Flash listed",
