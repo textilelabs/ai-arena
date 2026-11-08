@@ -90,6 +90,16 @@
   "latestModel": "Ling-3.1-flash-1019"
  },
  {
+  "key": "tencent",
+  "name": "Tencent",
+  "monogram": "T",
+  "color": "#00a4f7",
+  "blurb": "Tencent Hunyuan model family.",
+  "modelCount": 11,
+  "latestRelease": "2026-11-07",
+  "latestModel": "Qwen3.8-27B-DSpine-b16"
+ },
+ {
   "key": "bytedance",
   "name": "ByteDance",
   "monogram": "B",
@@ -118,16 +128,6 @@
   "modelCount": 10,
   "latestRelease": "2026-10-15",
   "latestModel": "Nemotron 3.5 Super VL"
- },
- {
-  "key": "tencent",
-  "name": "Tencent",
-  "monogram": "T",
-  "color": "#00a4f7",
-  "blurb": "Tencent Hunyuan model family.",
-  "modelCount": 10,
-  "latestRelease": "2026-10-22",
-  "latestModel": "Hy-SimulMT-30B-A3B"
  },
  {
   "key": "xai",
