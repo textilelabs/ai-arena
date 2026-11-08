@@ -1,5 +1,29 @@
 [
  {
+  "id": "feed-hf:tencent/Qwen3.8-27B-DSpine-b16",
+  "modelId": "hf:tencent/Qwen3.8-27B-DSpine-b16",
+  "title": "Qwen3.8-27B-DSpine-b16 listed",
+  "provider": "Tencent",
+  "providerKey": "tencent",
+  "released": "2026-11-07",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "qwen3",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "DSpine generates draft tokens in parallel. Each layer passes predicted predecessor features to adjacent positions, carrying causal dependencies through network depth. This checkpoint is a five-layer draft model for Qwen3.8-27B, with block size 16 and an 8,192-token sliding window. Throughput is total output tokens divided by end-to-end concurrent replay wall time (tokens/s). Parentheses show speedup over autoregressive decoding (AR).",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:NousResearch/Arete-27B",
   "modelId": "hf:NousResearch/Arete-27B",
   "title": "Arete-27B listed",
