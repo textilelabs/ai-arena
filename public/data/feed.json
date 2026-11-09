@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:meta/muse-ember",
+  "modelId": "or:meta/muse-ember",
+  "title": "Muse Ember listed",
+  "provider": "Meta",
+  "providerKey": "meta",
+  "released": "2026-11-09",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "muse",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Muse Ember is the smallest and most efficient model from Meta that’s designed for complex reasoning execution and the work agents repeat all day: tool calls, coding agent subtasks, routing,...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/meta/muse-ember",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:tencent/Qwen3.8-27B-DSpine-b16",
   "modelId": "hf:tencent/Qwen3.8-27B-DSpine-b16",
   "title": "Qwen3.8-27B-DSpine-b16 listed",
@@ -94,6 +120,30 @@
   "highlights": [],
   "sourceUrl": "https://openrouter.ai/google/gemini-omni-1.1-flash",
   "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-hf:meituan-longcat/LongCat-2.5",
+  "modelId": "hf:meituan-longcat/LongCat-2.5",
+  "title": "LongCat-2.5 listed",
+  "provider": "Meituan",
+  "providerKey": "meituan",
+  "released": "2026-11-04",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "longcat",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "LongCat-2.5 is a native multimodal MoE model for long-horizon agentic tasks, with 1.6 trillion total parameters and approximately 48 billion activated per token. Building on LongCat-2.0, it combines visual understanding with agentic coding for complex codebase development, full-project builds, creative design, and 3D tasks. Long-sequence training, large-scale RL, multi-teacher learning, and infrastructure optimizations on domestic AI accelerators underpin these capabilities. For full technical details, see our blog.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/meituan-longcat/LongCat-2.5",
+  "access": "Open",
   "type": "General",
   "benchmarkCount": 0
  },

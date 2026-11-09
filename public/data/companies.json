@@ -60,6 +60,16 @@
   "latestModel": "Claude Haiku 5.5"
  },
  {
+  "key": "meta",
+  "name": "Meta",
+  "monogram": "M",
+  "color": "#0668e1",
+  "blurb": "Meta AI — open-weight Llama foundation models.",
+  "modelCount": 22,
+  "latestRelease": "2026-11-09",
+  "latestModel": "Muse Ember"
+ },
+ {
   "key": "zhipu",
   "name": "Zhipu AI",
   "monogram": "Z",
@@ -68,16 +78,6 @@
   "modelCount": 22,
   "latestRelease": "2026-11-02",
   "latestModel": "GLM 5.3 FlashX Legal"
- },
- {
-  "key": "meta",
-  "name": "Meta",
-  "monogram": "M",
-  "color": "#0668e1",
-  "blurb": "Meta AI — open-weight Llama foundation models.",
-  "modelCount": 21,
-  "latestRelease": "2026-10-15",
-  "latestModel": "Muse Spark Open"
  },
  {
   "key": "inclusionai",
@@ -380,6 +380,16 @@
   "latestModel": "LFM3-1.7B"
  },
  {
+  "key": "meituan",
+  "name": "Meituan",
+  "monogram": "Me",
+  "color": "#ffc300",
+  "blurb": "Meituan LongCat model line.",
+  "modelCount": 2,
+  "latestRelease": "2026-11-04",
+  "latestModel": "LongCat-2.5"
+ },
+ {
   "key": "memtensor",
   "name": "Memtensor",
   "monogram": "ME",
@@ -638,16 +648,6 @@
   "modelCount": 1,
   "latestRelease": "2026-10-13",
   "latestModel": "LFM2.5-24B-A2B"
- },
- {
-  "key": "meituan",
-  "name": "Meituan",
-  "monogram": "Me",
-  "color": "#ffc300",
-  "blurb": "Meituan LongCat model line.",
-  "modelCount": 1,
-  "latestRelease": "2026-06-29",
-  "latestModel": "LongCat-2.0"
  },
  {
   "key": "nanbeige",
