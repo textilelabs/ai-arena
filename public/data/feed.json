@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:google/gemini-4-carbon",
+  "modelId": "or:google/gemini-4-carbon",
+  "title": "Gemini 4 Carbon listed",
+  "provider": "Google",
+  "providerKey": "google",
+  "released": "2026-11-10",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "gemini",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Gemini 4 Carbon is a frontier Gemini 4 model from Google for coding, agentic and complex reasoning work. It takes text, image, audio, video and file input, supports long decode...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/google/gemini-4-carbon",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:nex-agi/nex-n2.6",
   "modelId": "or:nex-agi/nex-n2.6",
   "title": "Nex-N2.6 listed",

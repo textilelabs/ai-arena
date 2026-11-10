@@ -25,9 +25,9 @@
   "monogram": "G",
   "color": "#4285f4",
   "blurb": "Google DeepMind — the Gemini model line.",
-  "modelCount": 32,
-  "latestRelease": "2026-11-05",
-  "latestModel": "Gemini Omni 1.2 Flash"
+  "modelCount": 33,
+  "latestRelease": "2026-11-10",
+  "latestModel": "Gemini 4 Carbon"
  },
  {
   "key": "deepseek",
