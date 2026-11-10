@@ -170,6 +170,16 @@
   "latestModel": "Aion 3.5"
  },
  {
+  "key": "nex-agi",
+  "name": "Nex Agi",
+  "monogram": "NE",
+  "color": "#d3455a",
+  "blurb": "Models tracked from Nex Agi.",
+  "modelCount": 5,
+  "latestRelease": "2026-11-10",
+  "latestModel": "Nex-N2.6"
+ },
+ {
   "key": "perplexity",
   "name": "Perplexity",
   "monogram": "PE",
@@ -218,16 +228,6 @@
   "modelCount": 4,
   "latestRelease": "2026-06-02",
   "latestModel": "MAI-Thinking-1"
- },
- {
-  "key": "nex-agi",
-  "name": "Nex Agi",
-  "monogram": "NE",
-  "color": "#d3455a",
-  "blurb": "Models tracked from Nex Agi.",
-  "modelCount": 4,
-  "latestRelease": "2026-09-08",
-  "latestModel": "Nex-N2.5-Pro"
  },
  {
   "key": "sakana",

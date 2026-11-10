@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:nex-agi/nex-n2.6",
+  "modelId": "or:nex-agi/nex-n2.6",
+  "title": "Nex-N2.6 listed",
+  "provider": "Nex Agi",
+  "providerKey": "nex-agi",
+  "released": "2026-11-10",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "nex",
+  "tags": [
+   "Open Weights",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Nex-N2.6 is an agentic model from Nex AGI, built on GLM-5.3-Flash with about 321B parameters. It is suited for computer use, coding, and long-horizon tasks that involve tools. Compared with...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/nex-agi/nex-n2.6",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:anthropic/claude-fable-5.2",
   "modelId": "or:anthropic/claude-fable-5.2",
   "title": "Claude Fable 5.2 listed",
