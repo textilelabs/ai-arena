@@ -200,6 +200,16 @@
   "latestModel": "MiMo-V2.6-Flash"
  },
  {
+  "key": "baidu",
+  "name": "Baidu",
+  "monogram": "BA",
+  "color": "#c3d345",
+  "blurb": "Models tracked from Baidu.",
+  "modelCount": 4,
+  "latestRelease": "2026-11-10",
+  "latestModel": "ERNIE-5.5-Flash-Preview"
+ },
+ {
   "key": "cohere",
   "name": "Cohere",
   "monogram": "C",
@@ -338,16 +348,6 @@
   "modelCount": 2,
   "latestRelease": "2026-04-01",
   "latestModel": "Trinity Large Thinking"
- },
- {
-  "key": "baidu",
-  "name": "Baidu",
-  "monogram": "BA",
-  "color": "#c3d345",
-  "blurb": "Models tracked from Baidu.",
-  "modelCount": 2,
-  "latestRelease": "2026-10-21",
-  "latestModel": "ERNIE-5.5-Flash-Base"
  },
  {
   "key": "cactus-compute",

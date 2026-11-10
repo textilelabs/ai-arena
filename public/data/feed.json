@@ -1,5 +1,55 @@
 [
  {
+  "id": "feed-or:baidu/ernie-5.5-flash-preview",
+  "modelId": "or:baidu/ernie-5.5-flash-preview",
+  "title": "ERNIE-5.5-Flash-Preview listed",
+  "provider": "Baidu",
+  "providerKey": "baidu",
+  "released": "2026-11-10",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ernie",
+  "tags": [
+   "Open Weights",
+   "Long Context"
+  ],
+  "summary": "ERNIE 5.5 Flash Preview is the latest foundation model in the ERNIE family, with comprehensive improvements in coding, agentic capabilities, knowledge work, and deep research. It has 280 billion total...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/baidu/ernie-5.5-flash-preview",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-or:baidu/ernie-light-dt-1.0-intl",
+  "modelId": "or:baidu/ernie-light-dt-1.0-intl",
+  "title": "ERNIE-Light-DT-1.0 listed",
+  "provider": "Baidu",
+  "providerKey": "baidu",
+  "released": "2026-11-10",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ernie",
+  "tags": [
+   "Proprietary",
+   "Long Context"
+  ],
+  "summary": "ERNIE-Light-DT-1.0 is based on open-source GLM models and includes research findings from Baidu Search's Lightning large model. It features Baidu Sparse Attention (BSA), a unique sparse attention mechanism developed by...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/baidu/ernie-light-dt-1.0-intl",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:google/gemini-4-carbon",
   "modelId": "or:google/gemini-4-carbon",
   "title": "Gemini 4 Carbon listed",
