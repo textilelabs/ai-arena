@@ -630,6 +630,16 @@
   "latestModel": "humanizer"
  },
  {
+  "key": "kt",
+  "name": "Kt",
+  "monogram": "KT",
+  "color": "#45b5d3",
+  "blurb": "Models tracked from Kt.",
+  "modelCount": 1,
+  "latestRelease": "2026-11-05",
+  "latestModel": "Mi:dm K 3.0 Pro"
+ },
+ {
   "key": "lightonai",
   "name": "Lightonai",
   "monogram": "LI",
@@ -648,6 +658,16 @@
   "modelCount": 1,
   "latestRelease": "2026-10-13",
   "latestModel": "LFM2.5-24B-A2B"
+ },
+ {
+  "key": "motif-technologies",
+  "name": "Motif Technologies",
+  "monogram": "MO",
+  "color": "#45b7d3",
+  "blurb": "Models tracked from Motif Technologies.",
+  "modelCount": 1,
+  "latestRelease": "2026-11-02",
+  "latestModel": "Motif 3"
  },
  {
   "key": "nanbeige",
