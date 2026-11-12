@@ -710,6 +710,16 @@
   "latestModel": "phonellm-alpha-1"
  },
  {
+  "key": "recursivesi",
+  "name": "Recursivesi",
+  "monogram": "RE",
+  "color": "#cad345",
+  "blurb": "Models tracked from Recursivesi.",
+  "modelCount": 1,
+  "latestRelease": "2026-10-21",
+  "latestModel": "flint"
+ },
+ {
   "key": "reflection",
   "name": "Reflection",
   "monogram": "RE",
