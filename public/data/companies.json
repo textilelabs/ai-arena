@@ -25,9 +25,9 @@
   "monogram": "G",
   "color": "#4285f4",
   "blurb": "Google DeepMind — the Gemini model line.",
-  "modelCount": 33,
-  "latestRelease": "2026-11-10",
-  "latestModel": "Gemini 4 Carbon"
+  "modelCount": 34,
+  "latestRelease": "2026-11-12",
+  "latestModel": "Gemini 4 Hydrogen"
  },
  {
   "key": "deepseek",
@@ -320,6 +320,16 @@
   "latestModel": "Step 5 Preview"
  },
  {
+  "key": "thinkingmachines",
+  "name": "Thinking Machines Lab",
+  "monogram": "TM",
+  "color": "#8b5cf6",
+  "blurb": "Mira Murati's lab building open multimodal models.",
+  "modelCount": 3,
+  "latestRelease": "2026-11-09",
+  "latestModel": "Inkling 2 Small"
+ },
+ {
   "key": "unbiased",
   "name": "Unbiased",
   "monogram": "UN",
@@ -498,16 +508,6 @@
   "modelCount": 2,
   "latestRelease": "2026-10-13",
   "latestModel": "Extract"
- },
- {
-  "key": "thinkingmachines",
-  "name": "Thinking Machines Lab",
-  "monogram": "TM",
-  "color": "#8b5cf6",
-  "blurb": "Mira Murati's lab building open multimodal models.",
-  "modelCount": 2,
-  "latestRelease": "2026-07-30",
-  "latestModel": "Inkling Small"
  },
  {
   "key": "xiaomimimo",
