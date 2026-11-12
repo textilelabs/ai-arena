@@ -552,6 +552,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:RecursiveSI/flint",
+  "modelId": "hf:RecursiveSI/flint",
+  "title": "flint ships",
+  "provider": "Recursivesi",
+  "providerKey": "recursivesi",
+  "released": "2026-10-21",
+  "ultimateScore": 61.6,
+  "scoreStatus": "partial",
+  "measuredScore": 78.1,
+  "imputationReason": "Partial (1 verified benchmark). Omission penalty applied for missing benchmarks.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "flint",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs, implement features, and write tests. Flint supports text input and output, reasoning, and multi-turn tool use. In our release evaluations, it scores 54.9% on Terminal-Bench 2.1, 89.7% on SWE-bench Pro v2, and 74.2% on SWE-bench Verified. This repository contains the BF16 checkpoint, model configuration, tokenizer, chat template, and an SGLang serving kit. Quantized variants are prepared separately for NVIDIA and Apple Silicon runtimes.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/RecursiveSI/flint",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 1
+ },
+ {
   "id": "feed-hf:baidu/ERNIE-5.5-Flash-Base",
   "modelId": "hf:baidu/ERNIE-5.5-Flash-Base",
   "title": "ERNIE-5.5-Flash-Base ships",
