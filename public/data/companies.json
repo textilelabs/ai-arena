@@ -550,6 +550,16 @@
   "latestModel": "JEV-9B"
  },
  {
+  "key": "ccore",
+  "name": "Ccore",
+  "monogram": "CC",
+  "color": "#b2d345",
+  "blurb": "Models tracked from Ccore.",
+  "modelCount": 1,
+  "latestRelease": "2026-11-01",
+  "latestModel": "Qwen3.5-4B-GLB-3D-Coder"
+ },
+ {
   "key": "cognitivecomputations",
   "name": "Cognitivecomputations",
   "monogram": "CO",
@@ -758,6 +768,16 @@
   "modelCount": 1,
   "latestRelease": "2026-09-25",
   "latestModel": "Jev Router"
+ },
+ {
+  "key": "webai-official",
+  "name": "Webai Official",
+  "monogram": "WE",
+  "color": "#ad45d3",
+  "blurb": "Models tracked from Webai Official.",
+  "modelCount": 1,
+  "latestRelease": "2026-10-14",
+  "latestModel": "TwIL-8B"
  },
  {
   "key": "writer",
