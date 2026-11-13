@@ -454,6 +454,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:ccore/Qwen3.5-4B-GLB-3D-Coder",
+  "modelId": "hf:ccore/Qwen3.5-4B-GLB-3D-Coder",
+  "title": "Qwen3.5-4B-GLB-3D-Coder listed",
+  "provider": "Ccore",
+  "providerKey": "ccore",
+  "released": "2026-11-01",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "qwen3",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "CCORE GLB-3D-Coder is a specialized 4B coding model for low-poly game assets and procedural scenes. Describe a character, prop, building, or environment, and the model writes a complete Three.js HTML/JavaScript page with a preview and an Export GLB button. Open the page, inspect the result, and export the asset for Godot or another editor that supports GLB. CCORE project release · November 5, 2026 · Apache 2.0 Repository: ccore/Qwen3.5-4B-GLB-3D-Coder · Checkpoint: latest uploaded This independently developed CCORE model was trained using Qwen/Qwen3.5-4B as its base. CCORE maintains this release.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:particle-ai/particle-1",
   "modelId": "or:particle-ai/particle-1",
   "title": "Particle-1 listed",
@@ -1002,6 +1026,30 @@
   "access": "Open",
   "type": "General",
   "benchmarkCount": 0
+ },
+ {
+  "id": "feed-hf:webAI-Official/TwIL-8B",
+  "modelId": "hf:webAI-Official/TwIL-8B",
+  "title": "TwIL-8B ships",
+  "provider": "Webai Official",
+  "providerKey": "webai-official",
+  "released": "2026-10-14",
+  "ultimateScore": 67.8,
+  "scoreStatus": "measured",
+  "measuredScore": 73.8,
+  "imputationReason": null,
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "twil",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "An 8.8B reasoning model for math, code and instruction following, post-trained from full-parameter supervised fine-tuning and GRPO/DAPO reinforcement learning. It ships in two variants that share one architecture and tokenizer: balanced (the default) and verbose. Against open models of similar size and up to 3.5x larger, TwIL-8B posts the highest MATH-500 (98.2) and LiveCodeBench (81.6 †) scores in the comparison and leads Qwen3.5-9B on IFBench (+9.9 †). It is level with Qwen3.5-9B on contest math while using fewer tokens per problem. It",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/webAI-Official/TwIL-8B",
+  "access": "Open",
+  "type": "Reasoning",
+  "benchmarkCount": 7
  },
  {
   "id": "feed-or:scaledown/extract",
