@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:tencent/hy4-flash",
+  "modelId": "or:tencent/hy4-flash",
+  "title": "Hy4 flash listed",
+  "provider": "Tencent",
+  "providerKey": "tencent",
+  "released": "2026-11-16",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "hy4",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Hy4 flash is a cost-efficient variant of Hy4 from Tencent, served with roughly a quarter of the flagship's parameter count for lower latency and cost. It targets code assistance, agent...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/tencent/hy4-flash",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:qwen/qwen4-max",
   "modelId": "or:qwen/qwen4-max",
   "title": "Qwen4 Max listed",
@@ -48,6 +74,30 @@
   "highlights": [],
   "sourceUrl": "https://openrouter.ai/google/gemini-4-hydrogen",
   "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-hf:Edge0/Edge0-145B-q3k",
+  "modelId": "hf:Edge0/Edge0-145B-q3k",
+  "title": "Edge0-145B-q3k listed",
+  "provider": "Edge0",
+  "providerKey": "edge0",
+  "released": "2026-11-11",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "edge0",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": ".edge0-card :where(p,span,small,strong,b,summary,div,nav,li,td,th) {font-family:inherit;line-height:inherit;color:inherit;} .edge0-card{color-scheme:light; --ink:#1d1d1f; --muted:#6e6e73; --line:#e5e5e7; --signal:#E63946; --ivory:#F1FAEE; --ice:#A8DADC; --steel:#45789D; --navy:#1D3557; --canvas:#ffffff; --wash:#f5f5f7;} .edge0-card,.edge0-card {box-sizing:border-box;} .edge0-card{margin:0; background:var(--canvas); color:var(--ink); font-family:-apple-system,BlinkMacSystemFont,\"SF Pro Text\",\"Helvetica Neue\",Inter,Arial,sans-serif;",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/Edge0/Edge0-145B-q3k",
+  "access": "Open",
   "type": "General",
   "benchmarkCount": 0
  },

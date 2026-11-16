@@ -95,9 +95,9 @@
   "monogram": "T",
   "color": "#00a4f7",
   "blurb": "Tencent Hunyuan model family.",
-  "modelCount": 11,
-  "latestRelease": "2026-11-07",
-  "latestModel": "Qwen3.8-27B-DSpine-b16"
+  "modelCount": 12,
+  "latestRelease": "2026-11-16",
+  "latestModel": "Hy4 flash"
  },
  {
   "key": "bytedance",
@@ -370,6 +370,16 @@
   "latestModel": "needle3"
  },
  {
+  "key": "edge0",
+  "name": "Edge0",
+  "monogram": "ED",
+  "color": "#d34c45",
+  "blurb": "Models tracked from Edge0.",
+  "modelCount": 2,
+  "latestRelease": "2026-11-11",
+  "latestModel": "Edge0-145B-q3k"
+ },
+ {
   "key": "inference-net",
   "name": "Inference Net",
   "monogram": "IN",
@@ -578,16 +588,6 @@
   "modelCount": 1,
   "latestRelease": "2026-10-08",
   "latestModel": "Underdog-Saluki-27B-1.0"
- },
- {
-  "key": "edge0",
-  "name": "Edge0",
-  "monogram": "ED",
-  "color": "#d34c45",
-  "blurb": "Models tracked from Edge0.",
-  "modelCount": 1,
-  "latestRelease": "2026-09-08",
-  "latestModel": "Edge0-35B-A3B-preview"
  },
  {
   "key": "elorian",
