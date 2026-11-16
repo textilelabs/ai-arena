@@ -1,5 +1,31 @@
 [
  {
+  "id": "feed-or:qwen/qwen4-max",
+  "modelId": "or:qwen/qwen4-max",
+  "title": "Qwen4 Max listed",
+  "provider": "Alibaba / Qwen",
+  "providerKey": "alibaba",
+  "released": "2026-11-16",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "qwen4",
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Qwen4 Max is the flagship model in Alibaba's Qwen4 series. It accepts text, image, and video input and returns text, with a 1M-token context window and reasoning enabled by default....",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/qwen/qwen4-max",
+  "access": "Closed",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:google/gemini-4-hydrogen",
   "modelId": "or:google/gemini-4-hydrogen",
   "title": "Gemini 4 Hydrogen listed",
