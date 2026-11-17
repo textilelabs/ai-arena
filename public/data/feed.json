@@ -6424,6 +6424,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:nvidia/nemotron-labs-audio-visual-flamingo-hf",
+  "modelId": "hf:nvidia/nemotron-labs-audio-visual-flamingo-hf",
+  "title": "nemotron-labs-audio-visual-flamingo-hf listed",
+  "provider": "NVIDIA",
+  "providerKey": "nvidia",
+  "released": "2026-04-15",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "nemotron",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Nemotron-Labs-Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos Nemotron-Labs-Audio-Visual Flamingo (AVF) is a fully open audio-visual large language model for joint understanding and reasoning over audio, images, and videos. nvidia/nemotron-labs-audio-visual-flamingo-hf is the instruction-tuned checkpoint for multimodal understanding and text generation over long, complex, real-world videos. AVF is designed for settings where the answer depends on both what is visible and what is audible: speech, background sounds, music, visual actions, scene transitions, temporal order, and cross-modal alignment. This checkpoint generates text only; streaming TTS is not included in the Hub weights.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/nvidia/nemotron-labs-audio-visual-flamingo-hf",
+  "access": "Open",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-kk26",
   "modelId": "kk26",
   "title": "Kimi K2.6 listed",
