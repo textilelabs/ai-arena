@@ -3433,7 +3433,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-12T22:56:40.981Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -4680,6 +4680,55 @@
   "benchmarkSources": {}
  },
  {
+  "id": "hf:tencent/Hy4-flash-base",
+  "name": "Hy4-flash-base",
+  "provider": "Tencent",
+  "providerKey": "tencent",
+  "family": "hy4",
+  "generation": null,
+  "country": null,
+  "type": "General",
+  "access": "Open",
+  "released": "2026-11-17",
+  "cutoff": null,
+  "parameters": null,
+  "contextWindow": null,
+  "contextTokens": null,
+  "pricing": null,
+  "multimodal": true,
+  "reasoning": false,
+  "description": "Hy4 flash is our most cost-effective Hy model to date, featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token. It natively accepts text and image inputs, generates text, and supports a context window of up to 1M tokens. Its 42-layer language backbone consists of one dense feed-forward layer and 41 MoE layers, with identity Hyper-Connections (iHC) supporting inter-layer information flow. A vision encoder (adapted from SigLIP2-So400m-Patch16-Res512) is connected to the backbone through an MLP projector. In addition to the backbone, a built-in 5-layer drafter, DFly2 (0.85B parameters), reuses the target model's KV cache and sparse indices to support long-context speculative decoding at a low, constant cost.",
+  "sourceUrl": "https://huggingface.co/tencent/Hy4-flash-base",
+  "benchmarks": {
+   "mmlu_pro": 71.1
+  },
+  "benchmarkSources": {
+   "mmlu_pro": "vendor"
+  },
+  "normalized": {
+   "swe_bench": null,
+   "hle": null,
+   "gpqa_diamond": null,
+   "livecode_bench": null,
+   "aime": null,
+   "mmlu_pro": 77.28260869565217,
+   "humaneval": null,
+   "math500": null
+  },
+  "benchmarkCount": 1,
+  "measuredScore": 77.3,
+  "ultimateScore": 57,
+  "scoreStatus": "partial",
+  "imputationReason": "Partial (1 verified benchmark). Omission penalty applied for missing benchmarks.",
+  "ceilingReason": null,
+  "tags": [
+   "Open Weights"
+  ],
+  "source": "huggingface-hub",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
+  "tier": "general"
+ },
+ {
   "id": "or:nvidia/nemotron-3-super-120b-a12b",
   "name": "Nemotron 3 Super",
   "provider": "NVIDIA",
@@ -4840,7 +4889,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-12T22:56:40.981Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "thinkingmachines/Inkling-2-Small",
   "tier": "lightweight"
  },
@@ -7904,6 +7953,51 @@
   "tier": "general"
  },
  {
+  "id": "hf:microsoft/Aion-1.0-Instruct-2.3B",
+  "name": "Aion-1.0-Instruct-2.3B",
+  "provider": "Microsoft",
+  "providerKey": "microsoft",
+  "family": "aion",
+  "generation": null,
+  "country": null,
+  "type": "General",
+  "access": "Open",
+  "released": "2026-11-18",
+  "cutoff": null,
+  "parameters": null,
+  "contextWindow": null,
+  "contextTokens": null,
+  "pricing": null,
+  "multimodal": false,
+  "reasoning": false,
+  "description": "Microsoft Windows Applied Sciences Group Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback.",
+  "sourceUrl": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+  "benchmarks": {},
+  "benchmarkSources": {},
+  "normalized": {
+   "swe_bench": null,
+   "hle": null,
+   "gpqa_diamond": null,
+   "livecode_bench": null,
+   "aime": null,
+   "mmlu_pro": null,
+   "humaneval": null,
+   "math500": null
+  },
+  "benchmarkCount": 0,
+  "measuredScore": null,
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "tags": [
+   "Open Weights"
+  ],
+  "source": "huggingface-hub",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
+  "tier": "general"
+ },
+ {
   "id": "or:aion-labs/aion-2.0",
   "name": "Aion-2.0",
   "provider": "Aion Labs",
@@ -8090,7 +8184,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -8144,7 +8238,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -8198,7 +8292,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -8252,7 +8346,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -8298,7 +8392,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -8390,7 +8484,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -8672,7 +8766,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "thedrummer/cydonia-24b-v4.1",
   "tier": "general"
  },
@@ -8726,7 +8820,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -8780,7 +8874,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -9016,7 +9110,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
   "tier": "general"
  },
@@ -9063,7 +9157,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "mistralai/Devstral-2-123B-Instruct-2512",
   "tier": "general"
  },
@@ -9221,7 +9315,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -9266,7 +9360,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -9360,7 +9454,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "baidu/ERNIE-4.5-VL-424B-A47B-PT",
   "tier": "general"
  },
@@ -10137,6 +10231,54 @@
   "tier": "general"
  },
  {
+  "id": "or:google/gemini-4-neon",
+  "name": "Gemini 4 Neon",
+  "provider": "Google",
+  "providerKey": "google",
+  "family": "gemini",
+  "generation": null,
+  "country": null,
+  "type": "General",
+  "access": "Closed",
+  "released": "2026-11-18",
+  "cutoff": null,
+  "parameters": null,
+  "contextWindow": "1049K tokens",
+  "contextTokens": 1048576,
+  "pricing": "$3.00/$15.00 per 1M tokens",
+  "multimodal": true,
+  "reasoning": false,
+  "description": "Gemini 4 Neon is a fast, mid-priced model in the Gemini 4 family from Google, built for coding and agentic work. It is suited for repository and terminal coding, web...",
+  "sourceUrl": "https://openrouter.ai/google/gemini-4-neon",
+  "benchmarks": {},
+  "benchmarkSources": {},
+  "normalized": {
+   "swe_bench": null,
+   "hle": null,
+   "gpqa_diamond": null,
+   "livecode_bench": null,
+   "aime": null,
+   "mmlu_pro": null,
+   "humaneval": null,
+   "math500": null
+  },
+  "benchmarkCount": 0,
+  "measuredScore": null,
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "tags": [
+   "Proprietary",
+   "Multimodal",
+   "Long Context"
+  ],
+  "source": "openrouter",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
+  "hfRef": null,
+  "tier": "general"
+ },
+ {
   "id": "or:google/gemini-omni-1.1-flash",
   "name": "Gemini Omni 1.1 Flash",
   "provider": "Google",
@@ -10366,7 +10508,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "zai-org/GLM-4.5",
   "tier": "general"
  },
@@ -10413,7 +10555,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "zai-org/GLM-4.5V",
   "tier": "general"
  },
@@ -10460,7 +10602,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "zai-org/GLM-4.6",
   "tier": "general"
  },
@@ -10507,7 +10649,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "zai-org/GLM-4.6V",
   "tier": "general"
  },
@@ -10648,7 +10790,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "zai-org/GLM-5.3-Flash",
   "tier": "general"
  },
@@ -11660,7 +11802,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "openai/gpt-oss-120b",
   "tier": "general"
  },
@@ -11706,7 +11848,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "openai/gpt-oss-20b",
   "tier": "general"
  },
@@ -11752,7 +11894,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "openai/gpt-oss-safeguard-20b",
   "tier": "general"
  },
@@ -11853,7 +11995,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -11943,7 +12085,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "ibm-granite/granite-4.2-8b",
   "tier": "general"
  },
@@ -12092,7 +12234,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -12137,7 +12279,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -12317,7 +12459,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -12505,7 +12647,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -12688,7 +12830,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -12733,7 +12875,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "moonshotai/Kimi-K2-Instruct",
   "tier": "general"
  },
@@ -12780,7 +12922,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "moonshotai/Kimi-K2-Instruct-0905",
   "tier": "general"
  },
@@ -13023,7 +13165,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "LiquidAI/LFM2.5-24B-A2B",
   "tier": "general"
  },
@@ -13069,7 +13211,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -13114,7 +13256,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -13300,7 +13442,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -13483,7 +13625,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -13528,7 +13670,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -13573,7 +13715,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Sao10K/L3.1-70B-Euryale-v2.2",
   "tier": "general"
  },
@@ -13619,7 +13761,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Sao10K/L3.3-70B-Euryale-v2.3",
   "tier": "general"
  },
@@ -13814,7 +13956,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -13906,7 +14048,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "anthracite-org/magnum-v4-72b",
   "tier": "general"
  },
@@ -14006,7 +14148,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -14703,7 +14845,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -14796,7 +14938,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -14889,7 +15031,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -15087,7 +15229,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "MiniMaxAI/MiniMax-Text-01",
   "tier": "general"
  },
@@ -15134,7 +15276,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "mistralai/Ministral-3-3B-Instruct-2512",
   "tier": "general"
  },
@@ -15182,7 +15324,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "mistralai/Ministral-3-8B-Instruct-2512",
   "tier": "general"
  },
@@ -15480,7 +15622,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -15636,7 +15778,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -15690,7 +15832,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -15744,7 +15886,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -15791,7 +15933,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "moondream/moondream3-preview",
   "tier": "general"
  },
@@ -15838,7 +15980,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "moondream/moondream3.1-9B-A2B",
   "tier": "general"
  },
@@ -16024,7 +16166,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -16496,7 +16638,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -16541,7 +16683,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -16586,7 +16728,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -16678,7 +16820,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "nvidia/Nemotron-3.5-Content-Safety",
   "tier": "general"
  },
@@ -16772,7 +16914,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -16817,7 +16959,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -16911,7 +17053,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "nex-agi/Nex-N2.5-Pro",
   "tier": "general"
  },
@@ -16959,7 +17101,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "nex-agi/Nex-N2.6",
   "tier": "general"
  },
@@ -17158,7 +17300,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -17203,7 +17345,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -17392,7 +17534,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "allenai/Olmo-3-32B-Think",
   "tier": "general"
  },
@@ -17677,7 +17819,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -17722,7 +17864,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -17767,7 +17909,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -17812,7 +17954,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -17857,7 +17999,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -18281,7 +18423,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -18420,7 +18562,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen2.5-72B-Instruct",
   "tier": "general"
  },
@@ -18466,7 +18608,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen2.5-Coder-32B-Instruct",
   "tier": "general"
  },
@@ -18513,7 +18655,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen2.5-VL-72B-Instruct",
   "tier": "general"
  },
@@ -18559,7 +18701,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -18604,7 +18746,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -18649,7 +18791,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-14B",
   "tier": "general"
  },
@@ -18695,7 +18837,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-30B-A3B",
   "tier": "general"
  },
@@ -18741,7 +18883,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-32B",
   "tier": "general"
  },
@@ -18788,7 +18930,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
   "tier": "general"
  },
@@ -18835,7 +18977,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-Coder-480B-A35B-Instruct",
   "tier": "general"
  },
@@ -18929,7 +19071,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-Coder-Next",
   "tier": "general"
  },
@@ -19024,7 +19166,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-VL-235B-A22B-Instruct",
   "tier": "general"
  },
@@ -19071,7 +19213,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-VL-235B-A22B-Thinking",
   "tier": "general"
  },
@@ -19119,7 +19261,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-VL-30B-A3B-Instruct",
   "tier": "general"
  },
@@ -19167,7 +19309,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-VL-30B-A3B-Thinking",
   "tier": "general"
  },
@@ -19214,7 +19356,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-VL-32B-Instruct",
   "tier": "general"
  },
@@ -19262,7 +19404,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-VL-8B-Instruct",
   "tier": "general"
  },
@@ -19309,7 +19451,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3-VL-8B-Thinking",
   "tier": "general"
  },
@@ -19355,7 +19497,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -19400,7 +19542,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -19445,7 +19587,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -19587,7 +19729,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3.5-122B-A10B",
   "tier": "general"
  },
@@ -19635,7 +19777,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3.5-27B",
   "tier": "general"
  },
@@ -19683,7 +19825,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "Qwen/Qwen3.5-35B-A3B",
   "tier": "general"
  },
@@ -19729,7 +19871,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -19774,7 +19916,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -20197,7 +20339,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -20242,7 +20384,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -20287,7 +20429,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -20380,7 +20522,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "RekaAI/reka-flash-3",
   "tier": "general"
  },
@@ -20566,7 +20708,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -20611,7 +20753,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -20702,7 +20844,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -20747,7 +20889,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "TheDrummer/Rocinante-12B-v1.1",
   "tier": "general"
  },
@@ -21122,7 +21264,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "TheDrummer/Skyfall-36B-v2",
   "tier": "general"
  },
@@ -21736,7 +21878,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "prism-ml/Ternary-Bonsai-2-9B-gguf",
   "tier": "general"
  },
@@ -21783,7 +21925,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "ByteDance-Seed/UI-TARS-1.5-7B",
   "tier": "general"
  },
@@ -21829,7 +21971,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "cognitivecomputations/Dolphin-Mistral-24B-Venice-Edition",
   "tier": "general"
  },
@@ -21924,7 +22066,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "TheDrummer/UnslopNemo-12B-v4.1",
   "tier": "general"
  },
@@ -22016,7 +22158,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general"
  },
  {
@@ -22069,7 +22211,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -22123,7 +22265,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "general",
   "benchmarkSources": {}
  },
@@ -22945,7 +23087,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "ibm-granite/granite-4.0-h-micro",
   "tier": "lightweight"
  },
@@ -23104,7 +23246,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "lightweight"
  },
  {
@@ -23149,7 +23291,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "lightweight"
  },
  {
@@ -23194,7 +23336,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "lightweight"
  },
  {
@@ -23247,7 +23389,7 @@
    "Open Weights"
   ],
   "source": "demandsphere-mcp+huggingface",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "lightweight",
   "benchmarkSources": {}
  },
@@ -23293,7 +23435,7 @@
    "Open Weights"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "mistralai/Mistral-Small-24B-Instruct-2501",
   "tier": "lightweight"
  },
@@ -23395,7 +23537,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "mistralai/Mistral-Small-3.1-24B-Instruct-2503",
   "tier": "lightweight"
  },
@@ -23442,7 +23584,7 @@
    "Multimodal"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
   "tier": "lightweight"
  },
@@ -23826,7 +23968,7 @@
    "Long Context"
   ],
   "source": "openrouter",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "hfRef": "nex-agi/Nex-N2.5-mini",
   "tier": "lightweight"
  },
@@ -24350,7 +24492,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "lightweight"
  },
  {
@@ -24584,7 +24726,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "lightweight"
  },
  {
@@ -24629,7 +24771,7 @@
    "Open Weights"
   ],
   "source": "huggingface-hub",
-  "fetchedAt": "2026-11-18T17:25:02.744Z",
+  "fetchedAt": "2026-11-18T23:40:29.892Z",
   "tier": "lightweight"
  }
 ]

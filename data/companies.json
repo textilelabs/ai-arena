@@ -25,9 +25,9 @@
   "monogram": "G",
   "color": "#4285f4",
   "blurb": "Google DeepMind — the Gemini model line.",
-  "modelCount": 34,
-  "latestRelease": "2026-11-12",
-  "latestModel": "Gemini 4 Hydrogen"
+  "modelCount": 35,
+  "latestRelease": "2026-11-18",
+  "latestModel": "Gemini 4 Neon"
  },
  {
   "key": "deepseek",
@@ -90,6 +90,16 @@
   "latestModel": "Ling-3.1-flash-1019"
  },
  {
+  "key": "tencent",
+  "name": "Tencent",
+  "monogram": "T",
+  "color": "#00a4f7",
+  "blurb": "Tencent Hunyuan model family.",
+  "modelCount": 13,
+  "latestRelease": "2026-11-17",
+  "latestModel": "Hy4-flash-base"
+ },
+ {
   "key": "nvidia",
   "name": "NVIDIA",
   "monogram": "NV",
@@ -98,16 +108,6 @@
   "modelCount": 12,
   "latestRelease": "2026-11-11",
   "latestModel": "Qwen3.5-4B-Qwen3.8-27B-Draft"
- },
- {
-  "key": "tencent",
-  "name": "Tencent",
-  "monogram": "T",
-  "color": "#00a4f7",
-  "blurb": "Tencent Hunyuan model family.",
-  "modelCount": 12,
-  "latestRelease": "2026-11-16",
-  "latestModel": "Hy4 flash"
  },
  {
   "key": "bytedance",
@@ -170,6 +170,16 @@
   "latestModel": "Aion 3.5"
  },
  {
+  "key": "microsoft",
+  "name": "Microsoft",
+  "monogram": "MS",
+  "color": "#00a4ef",
+  "blurb": "Microsoft — Phi small language models and MAI-1.",
+  "modelCount": 5,
+  "latestRelease": "2026-11-18",
+  "latestModel": "Aion-1.0-Instruct-2.3B"
+ },
+ {
   "key": "nex-agi",
   "name": "Nex Agi",
   "monogram": "NE",
@@ -228,16 +238,6 @@
   "modelCount": 4,
   "latestRelease": "2026-07-23",
   "latestModel": "KAT-Coder-V2.5-Dev"
- },
- {
-  "key": "microsoft",
-  "name": "Microsoft",
-  "monogram": "MS",
-  "color": "#00a4ef",
-  "blurb": "Microsoft — Phi small language models and MAI-1.",
-  "modelCount": 4,
-  "latestRelease": "2026-06-02",
-  "latestModel": "MAI-Thinking-1"
  },
  {
   "key": "sakana",
