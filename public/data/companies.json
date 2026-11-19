@@ -90,6 +90,16 @@
   "latestModel": "Ling-3.1-flash-1019"
  },
  {
+  "key": "nvidia",
+  "name": "NVIDIA",
+  "monogram": "NV",
+  "color": "#d39845",
+  "blurb": "Models tracked from NVIDIA.",
+  "modelCount": 13,
+  "latestRelease": "2026-11-11",
+  "latestModel": "Qwen3.5-4B-Qwen3.8-27B-Draft"
+ },
+ {
   "key": "tencent",
   "name": "Tencent",
   "monogram": "T",
@@ -98,16 +108,6 @@
   "modelCount": 13,
   "latestRelease": "2026-11-17",
   "latestModel": "Hy4-flash-base"
- },
- {
-  "key": "nvidia",
-  "name": "NVIDIA",
-  "monogram": "NV",
-  "color": "#d39845",
-  "blurb": "Models tracked from NVIDIA.",
-  "modelCount": 12,
-  "latestRelease": "2026-11-11",
-  "latestModel": "Qwen3.5-4B-Qwen3.8-27B-Draft"
  },
  {
   "key": "bytedance",
