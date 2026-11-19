@@ -8801,6 +8801,30 @@
   "benchmarkCount": 5
  },
  {
+  "id": "feed-hf:nvidia/Riva-Translate-4B-Instruct-v1.1",
+  "modelId": "hf:nvidia/Riva-Translate-4B-Instruct-v1.1",
+  "title": "Riva-Translate-4B-Instruct-v1.1 listed",
+  "provider": "NVIDIA",
+  "providerKey": "nvidia",
+  "released": "2025-11-05",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "riva",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "Note: A newer Riva-Translate-4B-Instruct model supporting 36 languages is now available Explore nvidia/Riva-Translate-4B-Instruct-v2 We’re excited to share our latest work on the next version of Riva-Translate-4B-Instruct! The new release outperforms the initial version across multiple benchmarks, including FLORES, NTREX, and WMT24, and demonstrates comparable performance to EuroLLM-9B-Instruct. The model supports translation across 12 languages and dialects spanning Chinese, Spanish, and Portuguese varieties. Specifically, it covers: English (en), German (de), European Spanish (es-ES), Latin American Spanish (es-US), French (fr), Brazilian Portuguese (pt-BR), Russian (ru), Simplified Chinese (zh-CN), Traditional Chinese (zh-TW), Japanese (ja), Korean (ko), and Arabic (ar). Built on a decoder-only Transformer architecture, this model is a fine-tuned version of a 4B-base model that was pr",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/nvidia/Riva-Translate-4B-Instruct-v1.1",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:amazon/nova-premier-v1",
   "modelId": "or:amazon/nova-premier-v1",
   "title": "Nova Premier 1.0 listed",
