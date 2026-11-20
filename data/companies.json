@@ -45,9 +45,9 @@
   "monogram": "M",
   "color": "#ff7000",
   "blurb": "European lab behind the Mistral and Mixtral families.",
-  "modelCount": 24,
-  "latestRelease": "2026-10-06",
-  "latestModel": "Mistral Large 4"
+  "modelCount": 25,
+  "latestRelease": "2026-11-20",
+  "latestModel": "Pixtral Large 2502"
  },
  {
   "key": "anthropic",
