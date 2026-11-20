@@ -1,5 +1,30 @@
 [
  {
+  "id": "feed-or:mistralai/pixtral-large-2502",
+  "modelId": "or:mistralai/pixtral-large-2502",
+  "title": "Pixtral Large 2502 listed",
+  "provider": "Mistral AI",
+  "providerKey": "mistral",
+  "released": "2026-11-20",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "pixtral",
+  "tags": [
+   "Proprietary",
+   "Multimodal"
+  ],
+  "summary": "Pixtral Large 2502 is the February 2025 version of Mistral AI's large multimodal model, following Pixtral Large 2411. It accepts text and image input, including documents, charts, and natural images,...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/mistralai/pixtral-large-2502",
+  "access": "Closed",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:microsoft/Aion-1.0-Instruct-2.3B",
   "modelId": "hf:microsoft/Aion-1.0-Instruct-2.3B",
   "title": "Aion-1.0-Instruct-2.3B listed",
