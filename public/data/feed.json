@@ -1,5 +1,57 @@
 [
  {
+  "id": "feed-or:radixark/daisyrose-27b",
+  "modelId": "or:radixark/daisyrose-27b",
+  "title": "DaisyRose 27B ships",
+  "provider": "Radixark",
+  "providerKey": "radixark",
+  "released": "2026-11-21",
+  "ultimateScore": 58.7,
+  "scoreStatus": "partial",
+  "measuredScore": 73,
+  "imputationReason": "Partial (2 verified benchmarks). Omission penalty applied for missing benchmarks.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "daisyrose",
+  "tags": [
+   "Open Weights",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "DaisyRose 27B is an open-weight multimodal reasoning model from RadixArk, trained from Qwen3.8 27B using reinforcement learning only on long-horizon agent tasks, with no supervised fine-tuning or distillation. It is...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/radixark/daisyrose-27b",
+  "access": "Open",
+  "type": "Reasoning",
+  "benchmarkCount": 2
+ },
+ {
+  "id": "feed-or:thinkingmachines/inkling-2-mini",
+  "modelId": "or:thinkingmachines/inkling-2-mini",
+  "title": "Inkling 2 Mini ships",
+  "provider": "Thinkingmachines",
+  "providerKey": "thinkingmachines",
+  "released": "2026-11-21",
+  "ultimateScore": 54.8,
+  "scoreStatus": "partial",
+  "measuredScore": 71.3,
+  "imputationReason": "Partial (1 verified benchmark). Omission penalty applied for missing benchmarks.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "inkling",
+  "tags": [
+   "Open Weights",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Inkling 2 Mini is an open-weight multimodal looped transformer from Thinking Machines Lab, with 3.4B active parameters out of 26.4B total (MoE). Its middle layers run three times with shared...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/thinkingmachines/inkling-2-mini",
+  "access": "Open",
+  "type": "Reasoning",
+  "benchmarkCount": 1
+ },
+ {
   "id": "feed-or:mistralai/pixtral-large-2502",
   "modelId": "or:mistralai/pixtral-large-2502",
   "title": "Pixtral Large 2502 listed",

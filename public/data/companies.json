@@ -270,6 +270,16 @@
   "latestModel": "Cydonia 24B V4.1"
  },
  {
+  "key": "thinkingmachines",
+  "name": "Thinking Machines Lab",
+  "monogram": "TM",
+  "color": "#8b5cf6",
+  "blurb": "Mira Murati's lab building open multimodal models.",
+  "modelCount": 4,
+  "latestRelease": "2026-11-21",
+  "latestModel": "Inkling 2 Mini"
+ },
+ {
   "key": "ibm-granite",
   "name": "Ibm Granite",
   "monogram": "IB",
@@ -318,16 +328,6 @@
   "modelCount": 3,
   "latestRelease": "2026-10-08",
   "latestModel": "Step 5 Preview"
- },
- {
-  "key": "thinkingmachines",
-  "name": "Thinking Machines Lab",
-  "monogram": "TM",
-  "color": "#8b5cf6",
-  "blurb": "Mira Murati's lab building open multimodal models.",
-  "modelCount": 3,
-  "latestRelease": "2026-11-09",
-  "latestModel": "Inkling 2 Small"
  },
  {
   "key": "unbiased",
@@ -718,6 +718,16 @@
   "modelCount": 1,
   "latestRelease": "2026-08-24",
   "latestModel": "phonellm-alpha-1"
+ },
+ {
+  "key": "radixark",
+  "name": "Radixark",
+  "monogram": "RA",
+  "color": "#6645d3",
+  "blurb": "Models tracked from Radixark.",
+  "modelCount": 1,
+  "latestRelease": "2026-11-21",
+  "latestModel": "DaisyRose 27B"
  },
  {
   "key": "recursivesi",
