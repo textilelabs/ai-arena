@@ -700,6 +700,16 @@
   "latestModel": "MOSS-Transcribe-Diarize"
  },
  {
+  "key": "ovhaillm",
+  "name": "Ovhaillm",
+  "monogram": "OV",
+  "color": "#d37545",
+  "blurb": "Models tracked from Ovhaillm.",
+  "modelCount": 1,
+  "latestRelease": "2026-10-30",
+  "latestModel": "Olala-v1.0-mini-7A1B"
+ },
+ {
   "key": "particle-ai",
   "name": "Particle Ai",
   "monogram": "PA",

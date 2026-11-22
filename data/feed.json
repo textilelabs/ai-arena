@@ -781,6 +781,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:OVHaiLLM/Olala-v1.0-mini-7A1B",
+  "modelId": "hf:OVHaiLLM/Olala-v1.0-mini-7A1B",
+  "title": "Olala-v1.0-mini-7A1B listed",
+  "provider": "Ovhaillm",
+  "providerKey": "ovhaillm",
+  "released": "2026-10-30",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": "Intelligence Ceiling: lightweight/utility model hard-capped at the lowest established flagship score (77.2). Lifted only with verified non-imputed SWE-bench ≥ 70 AND HLE ≥ 40.",
+  "floorReason": null,
+  "family": "olala",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "style=\"width: 300px; max-width: 70%; height: auto; display: block; margin: 0.6em auto 1.4em;\" /> Olala-v1.0-mini-7A1B is a small reasoning model for chat, instruction following and tool use, built on our hybrid Mamba-3 / attention mixture-of-experts architecture. European supercomputers (JUPITER, Jean Zay and MeluXina) on 12.8T tokens of public datasets and our own synthetic data, and released with open weights under reinforcement learning to call tools and to search over many turns. Find more information in our technical report.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/OVHaiLLM/Olala-v1.0-mini-7A1B",
+  "access": "Open",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:particle-ai/particle-1",
   "modelId": "or:particle-ai/particle-1",
   "title": "Particle-1 listed",
