@@ -77,6 +77,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:inclusionAI/LingSante-3.1-flash",
+  "modelId": "hf:inclusionAI/LingSante-3.1-flash",
+  "title": "LingSante-3.1-flash listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2026-11-19",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "lingsante",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "LingSante-3.1-flash is an open-weight Mixture-of-Experts model that combines complex medical reasoning, professional healthcare communication, evidence-based deep research, and long-horizon medical tasks. Built on Ling-3.1-flash, it has 560 billion total parameters, activates 25 billion parameters per token, and supports a 1-million-token context window. Real-world medical tasks present challenges that go beyond general intelligence, including incomplete health information, substantial patient heterogeneity, and strict operational and compliance requirements. To address these demands, LingSante-3.1-flash is trained to unify medical reasoning and workflow execution through native medical-mixed pretraining, mid-training, supervised fine-tuning, task-specific reinforcement learning, and multi-teacher on-policy distillation. The model can verify evidence across scenarios, deliver professiona",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/inclusionAI/LingSante-3.1-flash",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-hf:microsoft/Aion-1.0-Instruct-2.3B",
   "modelId": "hf:microsoft/Aion-1.0-Instruct-2.3B",
   "title": "Aion-1.0-Instruct-2.3B listed",
