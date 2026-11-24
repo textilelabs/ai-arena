@@ -160,6 +160,16 @@
   "latestModel": "ALoDLM-8B"
  },
  {
+  "key": "cohere",
+  "name": "Cohere",
+  "monogram": "C",
+  "color": "#39594d",
+  "blurb": "Enterprise-focused lab behind the Command models.",
+  "modelCount": 8,
+  "latestRelease": "2026-08-14",
+  "latestModel": "North-Small-Translate-1.0"
+ },
+ {
   "key": "aion-labs",
   "name": "Aion Labs",
   "monogram": "AI",
@@ -218,16 +228,6 @@
   "modelCount": 4,
   "latestRelease": "2026-11-10",
   "latestModel": "ERNIE-5.5-Flash-Preview"
- },
- {
-  "key": "cohere",
-  "name": "Cohere",
-  "monogram": "C",
-  "color": "#39594d",
-  "blurb": "Enterprise-focused lab behind the Command models.",
-  "modelCount": 4,
-  "latestRelease": "2026-08-14",
-  "latestModel": "North-Small-Translate-1.0"
  },
  {
   "key": "kwaipilot",
