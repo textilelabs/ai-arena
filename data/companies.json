@@ -90,6 +90,16 @@
   "latestModel": "LingSante-3.1-flash"
  },
  {
+  "key": "tencent",
+  "name": "Tencent",
+  "monogram": "T",
+  "color": "#00a4f7",
+  "blurb": "Tencent Hunyuan model family.",
+  "modelCount": 15,
+  "latestRelease": "2026-11-17",
+  "latestModel": "Hy4-flash-base"
+ },
+ {
   "key": "nvidia",
   "name": "NVIDIA",
   "monogram": "NV",
@@ -98,16 +108,6 @@
   "modelCount": 13,
   "latestRelease": "2026-11-11",
   "latestModel": "Qwen3.5-4B-Qwen3.8-27B-Draft"
- },
- {
-  "key": "tencent",
-  "name": "Tencent",
-  "monogram": "T",
-  "color": "#00a4f7",
-  "blurb": "Tencent Hunyuan model family.",
-  "modelCount": 13,
-  "latestRelease": "2026-11-17",
-  "latestModel": "Hy4-flash-base"
  },
  {
   "key": "bytedance",
