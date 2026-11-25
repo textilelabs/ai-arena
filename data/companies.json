@@ -180,6 +180,16 @@
   "latestModel": "Aion 3.5"
  },
  {
+  "key": "xiaomi",
+  "name": "Xiaomi",
+  "monogram": "XI",
+  "color": "#4564d3",
+  "blurb": "Models tracked from Xiaomi.",
+  "modelCount": 6,
+  "latestRelease": "2026-11-23",
+  "latestModel": "MiMo-V2.6-Flash-MOPD"
+ },
+ {
   "key": "microsoft",
   "name": "Microsoft",
   "monogram": "MS",
@@ -210,14 +220,14 @@
   "latestModel": "Sonar Pro Search"
  },
  {
-  "key": "xiaomi",
-  "name": "Xiaomi",
-  "monogram": "XI",
-  "color": "#4564d3",
-  "blurb": "Models tracked from Xiaomi.",
+  "key": "upstage",
+  "name": "Upstage",
+  "monogram": "UP",
+  "color": "#45d35f",
+  "blurb": "Models tracked from Upstage.",
   "modelCount": 5,
-  "latestRelease": "2026-09-21",
-  "latestModel": "MiMo-V2.6-Flash"
+  "latestRelease": "2026-11-24",
+  "latestModel": "Solar Pro 4 Contributor"
  },
  {
   "key": "baidu",
@@ -338,16 +348,6 @@
   "modelCount": 3,
   "latestRelease": "2026-10-13",
   "latestModel": "Pareto 26.9"
- },
- {
-  "key": "upstage",
-  "name": "Upstage",
-  "monogram": "UP",
-  "color": "#45d35f",
-  "blurb": "Models tracked from Upstage.",
-  "modelCount": 3,
-  "latestRelease": "2026-09-23",
-  "latestModel": "Solar Mini 4"
  },
  {
   "key": "arcee-ai",
