@@ -351,6 +351,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-hf:tencent/Hy-MT3-7B",
+  "modelId": "hf:tencent/Hy-MT3-7B",
+  "title": "Hy-MT3-7B listed",
+  "provider": "Tencent",
+  "providerKey": "tencent",
+  "released": "2026-11-17",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "hy",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "🖥️&nbsp;Official Website&nbsp;&nbsp;|&nbsp;&nbsp; Hy-MT3 is the third generation of the Tencent Hy multilingual translation model family. It includes three model sizes: 1.8B, 7B, and 30B-A3B (MoE), and expands language coverage from 38 languages in Hy-MT2 to 102 languages. Compared with Hy-MT2, Hy-MT3 translates more accurately, more completely and more faithfully to user constraints: on real-world scenario data, the share of samples with mistranslations is reduced by 43%, omissions or additions by 74%, and instruction-following errors by 40%.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/tencent/Hy-MT3-7B",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:tencent/hy4-flash",
   "modelId": "or:tencent/hy4-flash",
   "title": "Hy4 flash listed",
