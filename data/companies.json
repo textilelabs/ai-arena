@@ -25,7 +25,7 @@
   "monogram": "G",
   "color": "#4285f4",
   "blurb": "Google DeepMind — the Gemini model line.",
-  "modelCount": 35,
+  "modelCount": 36,
   "latestRelease": "2026-11-18",
   "latestModel": "Gemini 4 Neon"
  },
@@ -768,6 +768,16 @@
   "modelCount": 1,
   "latestRelease": "2026-11-04",
   "latestModel": "ricursiveAI/Ripple-65B-Preview"
+ },
+ {
+  "key": "tngtech",
+  "name": "Tngtech",
+  "monogram": "TN",
+  "color": "#d145d3",
+  "blurb": "Models tracked from Tngtech.",
+  "modelCount": 1,
+  "latestRelease": "2025-07-08",
+  "latestModel": "DeepSeek R1T2 Chimera"
  },
  {
   "key": "trl-internal-testing",

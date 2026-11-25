@@ -10759,6 +10759,30 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-or:tngtech/deepseek-r1t2-chimera",
+  "modelId": "or:tngtech/deepseek-r1t2-chimera",
+  "title": "DeepSeek R1T2 Chimera ships",
+  "provider": "Tngtech",
+  "providerKey": "tngtech",
+  "released": "2025-07-08",
+  "ultimateScore": 64,
+  "scoreStatus": "partial",
+  "measuredScore": 82.1,
+  "imputationReason": "Partial (2 verified benchmarks). Omission penalty applied for missing benchmarks.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "deepseek",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "DeepSeek-TNG-R1T2-Chimera is the second-generation Chimera model from TNG Tech. It is a 671 B-parameter mixture-of-experts text-generation model assembled from DeepSeek-AI’s R1-0528, R1, and V3-0324 checkpoints with an Assembly-of-Experts merge. The...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/tngtech/deepseek-r1t2-chimera",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 2
+ },
+ {
   "id": "feed-or:tencent/hunyuan-a13b-instruct",
   "modelId": "or:tencent/hunyuan-a13b-instruct",
   "title": "Hunyuan A13B Instruct ships",
@@ -11801,6 +11825,30 @@
   "summary": "Reka Flash 3 is a general-purpose, instruction-tuned large language model with 21 billion parameters, developed by Reka. It excels at general chat, coding tasks, instruction-following, and function calling. Featuring a...",
   "highlights": [],
   "sourceUrl": "https://openrouter.ai/rekaai/reka-flash-3",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
+  "id": "feed-hf:google/gemma-3-1b-it",
+  "modelId": "hf:google/gemma-3-1b-it",
+  "title": "gemma-3-1b-it listed",
+  "provider": "Google",
+  "providerKey": "google",
+  "released": "2025-03-10",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "gemma",
+  "tags": [
+   "Open Weights"
+  ],
+  "summary": "gemma-3-1b-it — Google release listed on the HuggingFace Hub. Awaiting published benchmark results.",
+  "highlights": [],
+  "sourceUrl": "https://huggingface.co/google/gemma-3-1b-it",
   "access": "Open",
   "type": "General",
   "benchmarkCount": 0
