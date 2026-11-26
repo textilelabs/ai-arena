@@ -85,9 +85,9 @@
   "monogram": "IN",
   "color": "#45d362",
   "blurb": "Models tracked from InclusionAI.",
-  "modelCount": 17,
-  "latestRelease": "2026-11-19",
-  "latestModel": "LingSante-3.1-flash"
+  "modelCount": 18,
+  "latestRelease": "2026-11-26",
+  "latestModel": "LingSante 3.1 Air VL"
  },
  {
   "key": "tencent",
