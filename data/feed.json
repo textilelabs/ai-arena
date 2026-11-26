@@ -1,5 +1,30 @@
 [
  {
+  "id": "feed-or:inclusionai/lingsante-3.1-air-vl",
+  "modelId": "or:inclusionai/lingsante-3.1-air-vl",
+  "title": "LingSante 3.1 Air VL listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2026-11-26",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "lingsante",
+  "tags": [
+   "Open Weights",
+   "Multimodal"
+  ],
+  "summary": "LingSante 3.1 Air VL is inclusionAI's medical vision-language model, a 124B total / 5.5B active MoE. It takes text and up to 16 images (scans, skin and meal photos, lab...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/inclusionai/lingsante-3.1-air-vl",
+  "access": "Open",
+  "type": "General",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:upstage/solar-pro-4-contributor",
   "modelId": "or:upstage/solar-pro-4-contributor",
   "title": "Solar Pro 4 Contributor listed",
