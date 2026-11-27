@@ -452,6 +452,32 @@
   "benchmarkCount": 0
  },
  {
+  "id": "feed-or:inclusionai/ling-3.2-flash",
+  "modelId": "or:inclusionai/ling-3.2-flash",
+  "title": "Ling 3.2 Flash listed",
+  "provider": "InclusionAI",
+  "providerKey": "inclusionai",
+  "released": "2026-11-13",
+  "ultimateScore": 0,
+  "scoreStatus": "imputed",
+  "measuredScore": null,
+  "imputationReason": "No verified benchmark data — scored at floor (0). Missing-data models are no longer granted a grace-period baseline.",
+  "ceilingReason": null,
+  "floorReason": null,
+  "family": "ling",
+  "tags": [
+   "Open Weights",
+   "Multimodal",
+   "Long Context"
+  ],
+  "summary": "Ling 3.2 Flash is a hybrid reasoning model from inclusionAI that accepts text and image input, with a 1M-token context window and up to 200 images per request. Thinking can...",
+  "highlights": [],
+  "sourceUrl": "https://openrouter.ai/inclusionai/ling-3.2-flash",
+  "access": "Open",
+  "type": "Reasoning",
+  "benchmarkCount": 0
+ },
+ {
   "id": "feed-or:google/gemini-4-hydrogen",
   "modelId": "or:google/gemini-4-hydrogen",
   "title": "Gemini 4 Hydrogen listed",
